@@ -1,0 +1,9 @@
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\bin\Debug\Egg_Test_Data_Logger.exe.config
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\obj\Debug\Egg_Test_Data_Logger.mainWindow.resources
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\obj\Debug\Egg_Test_Data_Logger.Properties.Resources.resources
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\obj\Debug\Egg_Test_Data_Logger.csproj.GenerateResource.Cache
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\bin\Debug\Egg_Test_Data_Logger.exe
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\bin\Debug\Egg_Test_Data_Logger.pdb
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\obj\Debug\Egg_Test_Data_Logger.exe
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\obj\Debug\Egg_Test_Data_Logger.pdb
+C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\Egg_Test_Data_Logger\Egg_Test_Data_Logger\Egg_Test_Data_Logger\obj\Debug\Egg_Test_Data_Logger.csprojResolveAssemblyReference.cache
