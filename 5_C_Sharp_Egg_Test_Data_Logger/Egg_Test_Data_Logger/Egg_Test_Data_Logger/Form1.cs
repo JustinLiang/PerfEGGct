@@ -26,7 +26,7 @@ namespace Egg_Test_Data_Logger
         public int numberOfDataPoints = 0;
         int serCOMBytesToRead = 0;
         ConcurrentQueue<int> dataQueue = new ConcurrentQueue<int>();
-        string path = @"C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\5_C_Sharp_Egg_Test_Data_Logger\Data_Log_Files";
+        string path = @"C:\Users\Justin\OneDrive\Courses\MECH_423\Final_Project\5_C_Sharp_Egg_Test_Data_Logger\Data_Log_Files";
 
         public mainWindow()
         {
@@ -148,7 +148,7 @@ namespace Egg_Test_Data_Logger
                             accelText.Text = data.ToString();
                             
                             // Write to text file
-                            using (StreamWriter sw = File.AppendText(path + "\\" + outputFilenameText + ".txt"))
+                            using (StreamWriter sw = File.AppendText(path + "\\" + outputFilenameText.Text + ".txt"))
                             {
                                 sw.WriteLine(data.ToString());
                             }
@@ -157,7 +157,7 @@ namespace Egg_Test_Data_Logger
                             // Clear chart
                             chartAcceleration.Series["eggAccel"].Points.Clear();
 
-                            File.WriteAllText(path, " ");
+                            File.WriteAllText(path + "\\" + outputFilenameText.Text + ".txt", " ");
                             break;
                         case 3:
                             dataPointsText.Text = data.ToString();
@@ -177,7 +177,8 @@ namespace Egg_Test_Data_Logger
             MLApp.MLApp matlab = new MLApp.MLApp();
 
             // Change to the directory where the function is located 
-            matlab.Execute(@"cd C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\8_MATLAB_FFTAnalysis");
+            //matlab.Execute("cd \"c:\\Users\\Justin\\OneDrive\\Courses\\MECH 423\\Final Project\\8_MATLAB_FFTAnalysis\"");
+            matlab.Execute(@"cd C:\Users\Justin\OneDrive\Courses\MECH_423\Final_Project\8_MATLAB_FFTAnalysis");
 
             // Define the output 
             object result = null;
@@ -190,3 +191,17 @@ namespace Egg_Test_Data_Logger
 
     }
 }
+
+//// Call the MATLAB function myfunc
+//matlab.Feval("sensor_out", 3, out result, ax, ay, az, gx, gy, gz);
+
+
+////// get MATLAB results into double arrays
+//var res = (result as object[]).Select(x => (double[,])x).ToArray();
+//object t_obj = res.GetValue(0);
+//object X_obj = res.GetValue(1);
+//object Q_obj = res.GetValue(2);
+
+//t = (double[,])t_obj;
+//X = (double[,])X_obj;
+//Q = (double[,])Q_obj;

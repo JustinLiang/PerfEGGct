@@ -1,4 +1,4 @@
-function [frequency] = FFTAnalysis(fileName, N)
+function [frequency] = FFTAnalysis( N)
     close all
     N = double(N);
 
@@ -7,7 +7,6 @@ function [frequency] = FFTAnalysis(fileName, N)
     if(~isdeployed)
       cd(fileparts(which(mfilename)));
     end
-    dir = 'C:\Users\Justin\OneDrive\Courses\MECH_423\Final_Project\5_C_Sharp_Egg_Test_Data_Logger\Data_Log_Files';
 
     Fs = 111.9;           % Sampling frequency
     T = 1/Fs;
@@ -15,16 +14,16 @@ function [frequency] = FFTAnalysis(fileName, N)
     data = cell(1,N);
 
     for i=1:N;
+        fileName = 'DATA_3MIN_3_';
         postfix = '.txt';
-        fullFileName = strcat({dir},{'\'},{fileName},{int2str(i)},{postfix});
-%         fullFileName = strcat({fileName},{int2str(i)},{postfix});
+        fullFileName = strcat({fileName},{int2str(i)},{postfix});
         data{i} = load(fullFileName{1});
 
         average = mean(data{i});
         indices = find(abs(data{i})>1000);
         data{i}(indices) = average;
 
-        [b,a] = butter(4,[5/(Fs/2) 10/(Fs/2)]);
+        [b,a] = butter(4,[5/(Fs/2) 12/(Fs/2)]);
         data{i} = filtfilt(b,a,data{i});
 
         L = length(data{i});
