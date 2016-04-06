@@ -34,7 +34,7 @@
 #define BUFFER_SIZE 21
 
 // Peak buffer size - max 20 peaks
-#define PEAK_ARRAY_SIZE 10
+#define PEAK_ARRAY_SIZE 30
 
 // Previous values array size
 #define PREV_ARRAY_SIZE 3
@@ -49,6 +49,8 @@ unsigned long dampedPeriod = 0;
 unsigned long avgDampedPeriod = 0;
 unsigned long avgDampedFrequency = 0;
 unsigned long buttonPressedFlag = 0;
+
+unsigned long dataPointsCount = 0;
 
 const bool arduinoTestFlag = false;
 
@@ -337,6 +339,8 @@ void CalculateAndStoreAverage() {
 
   // calculate the average:
   averageAccel = totalAccel / numReadings;
+  dataPointsCount++;
+
   // send it to the computer as ASCII digits
   if(arduinoTestFlag==true) {
     Serial.print(averageAccel);
@@ -345,6 +349,7 @@ void CalculateAndStoreAverage() {
 
   if(digitalRead(PIN_BTN_MID) == 1) {
     WriteDecimalToSerial(averageAccel, MODE_1);
+    WriteDecimalToSerial(dataPointsCount, MODE_5);
   }
 
   // Update array with the previous values
@@ -365,16 +370,9 @@ void GetPeaks(void) {
   // Then we have a peak
   if(prevAverageArray[PREV_ARRAY_SIZE/2] > prevAverageArray[0] && 
     prevAverageArray[PREV_ARRAY_SIZE/2] > prevAverageArray[PREV_ARRAY_SIZE-1]) {
-//    if(prevAverageArray[PREV_ARRAY_SIZE/2] < 310 && lastPeakSmall == FALSE) {
-//      lastPeakSmall = TRUE;
-//    }
-//    else if(prevAverageArray[PREV_ARRAY_SIZE/2] < 310 && lastPeakSmall == TRUE) { // If peak is less than 350 stop recording
-//      startFlag = FALSE;
-//      OutputPeaksToSerial();
-//      ResetPeakArrays();
-//      lastPeakSmall = FALSE;
     if(peakIndex == PEAK_ARRAY_SIZE) {  // We have stored 20 peaks
       startFlag = FALSE;
+      dataPointsCount = 0;
       OutputPeaksToSerial();
       ResetPeakArrays();
       //lastPeakSmall = FALSE;

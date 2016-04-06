@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -25,6 +26,7 @@ namespace Egg_Test_Data_Logger
         public int numberOfDataPoints = 0;
         int serCOMBytesToRead = 0;
         ConcurrentQueue<int> dataQueue = new ConcurrentQueue<int>();
+        string path = @"C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\final_project_code\";
 
         public mainWindow()
         {
@@ -39,6 +41,15 @@ namespace Egg_Test_Data_Logger
             chartAcceleration.ChartAreas[0].AxisX.Maximum = 750;
             chartAcceleration.ChartAreas[0].AxisX.Minimum = 0;
             consoleWindow.ScrollBars = ScrollBars.Vertical;
+
+            if (!File.Exists(path))
+            {
+                // Create a file to write to.
+                using (StreamWriter sw = File.CreateText(path))
+                {
+                    sw.WriteLine("Value, Time");
+                }
+            }
         }
 
         private void ComPortUpdate()
@@ -134,44 +145,40 @@ namespace Egg_Test_Data_Logger
                             // Display it on the 
                             chartAcceleration.Series["eggAccel"].Points.AddY(data);
                             // Display it on the text boxes
-                            accelText.Text = data.ToString();                            
-
-                            // Display it on the chart
-                            //objPositionSeries.Points.AddY(pos);
-
-                            // Make sure that the chart moves and doesn't scale to show all the data points. The maximum
-                            // number of data points that can be shown is 10 * timer.Interval
-                            //if (chartPosition.Series["Position"].Points.Count > 10 * timer.Interval)
-                            //    chartPosition.ChartAreas["ChartArea1"].AxisX.Minimum = chartPosition.Series["Position"].Points.Count - 500 * timer.Interval;
-                            //if (chartVelocity.Series["Velocity"].Points.Count > 10 * timer.Interval)
-                            //    chartVelocity.ChartAreas["ChartArea1"].AxisX.Minimum = chartVelocity.Series["Velocity"].Points.Count - 500 * timer.Interval;
-
-                            //if (objPositionSeries.Points.Count() > 1000)
-                            //{
-                            //    objPositionSeries.Points.RemoveAt(0);
-                            //}
+                            accelText.Text = data.ToString();
+                            
+                            // Write to text file
+                            using (StreamWriter sw = File.AppendText(path + outputFilenameText + ".txt"))
+                            {
+                                sw.WriteLine(data.ToString());
+                            }
                             break;
                         case 2:
                             // Clear chart
                             chartAcceleration.Series["eggAccel"].Points.Clear();
+
+                            File.WriteAllText(path, " ");
                             break;
-                        case 3:
-                            if (peakValuesTextExists == false)
-                            {
-                                peakPeriodsTextExists = false;  // reset
-                                consoleWindow.AppendText("\r\nPeak Values: ");
-                                peakValuesTextExists = true;
-                            }
-                            consoleWindow.AppendText(data.ToString() + ",");
-                            break;
-                        case 4:
-                            if (peakPeriodsTextExists == false)
-                            {
-                                peakValuesTextExists = false;   // reset
-                                consoleWindow.AppendText("\r\nPeak Periods: ");
-                                peakPeriodsTextExists = true;
-                            }
-                            consoleWindow.AppendText(data.ToString() + ",");
+                        //case 3:
+                        //    if (peakValuesTextExists == false)
+                        //    {
+                        //        peakPeriodsTextExists = false;  // reset
+                        //        consoleWindow.AppendText("\r\nPeak Values: ");
+                        //        peakValuesTextExists = true;
+                        //    }
+                        //    consoleWindow.AppendText(data.ToString() + ",");
+                        //    break;
+                        //case 4:
+                        //    if (peakPeriodsTextExists == false)
+                        //    {
+                        //        peakValuesTextExists = false;   // reset
+                        //        consoleWindow.AppendText("\r\nPeak Periods: ");
+                        //        peakPeriodsTextExists = true;
+                        //    }
+                        //    consoleWindow.AppendText(data.ToString() + ",");
+                        //    break;
+                        case 5:
+                            dataPointsText.Text = data.ToString();
                             break;
                         default:
                             break;

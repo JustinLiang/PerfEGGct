@@ -1,0 +1,2657 @@
+﻿18-03-2009 09:49:05,Can not open serial port : COM1
+18-03-2009 09:49:05,Porten 'COM1' findes ikke.
+18-03-2009 09:50:11,Can not open serial port : COM1
+18-03-2009 09:50:11,Porten 'COM1' findes ikke.
+26-03-2011 10:25:55,Can not open serial port : COM1
+26-03-2011 10:25:55,Porten 'COM1' findes ikke.
+20-09-2011 10:58:45,Can not open serial port : COM1
+20-09-2011 10:58:45,Porten 'COM1' findes ikke.
+05-05-2012 21:56:12,Can not open serial port : COM1
+05-05-2012 21:56:12,Porten 'COM1' findes ikke.
+05-05-2012 21:57:41,Can not open serial port : COM1
+05-05-2012 21:57:41,Porten 'COM1' findes ikke.
+11-07-2012 09:48:30,Can not open serial port : COM1
+11-07-2012 09:48:30,Porten 'COM1' findes ikke.
+4/5/2016 3:34:45 PM,Can not open serial port : COM1
+4/5/2016 3:34:45 PM,The port 'COM1' does not exist.
+4/5/2016 3:36:13 PM,Can not open serial port : COM27
+4/5/2016 3:36:13 PM,Access to the port 'COM27' is denied.
+4/5/2016 3:36:25 PM,Serial port : COM27 opened at 9600 baud
+4/5/2016 3:36:32 PM,Commandstring recieved : 
+4/5/2016 3:36:32 PM,While parsing the command string  an exception was generated
+4/5/2016 3:36:32 PM,Index was outside the bounds of the array.
+4/5/2016 3:36:32 PM,Commandstring recieved : 2. Two tones of 1040Hz and 1280Hz sampled at 5120Hz
+4/5/2016 3:36:32 PM,The string recieved : 2. Two tones of 1040Hz and 1280Hz sampled at 5120Hz is not a well formed command string
+4/5/2016 3:36:32 PM,Commandstring recieved : 
+4/5/2016 3:36:32 PM,While parsing the command string  an exception was generated
+4/5/2016 3:36:32 PM,Index was outside the bounds of the array.
+4/5/2016 3:36:32 PM,Commandstring recieved :  21   *                                                             
+4/5/2016 3:36:32 PM,The string recieved :  21   *                                                              is not a well formed command string
+4/5/2016 3:36:32 PM,Commandstring recieved :  20   * *                                                           
+4/5/2016 3:36:32 PM,The string recieved :  20   * *                                                            is not a well formed command string
+4/5/2016 3:36:32 PM,Commandstring recieved :  19   ****                                                          
+4/5/2016 3:36:32 PM,The string recieved :  19   ****                                                           is not a well formed command string
+4/5/2016 3:36:32 PM,Commandstring recieved :  18   ****                                                          
+4/5/2016 3:36:32 PM,The string recieved :  18   ****                                                           is not a well formed command string
+4/5/2016 3:36:32 PM,Commandstring recieved :  17   ****                                                          
+4/5/2016 3:36:32 PM,The string recieved :  17   ****                                                           is not a well formed command string
+4/5/2016 3:36:32 PM,Commandstring recieved :  16   **** *                                                        
+4/5/2016 3:36:32 PM,The string recieved :  16   **** *                                                         is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :  15   **** *                                                        
+4/5/2016 3:36:33 PM,The string recieved :  15   **** *                                                         is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :  14   **** *                                                        
+4/5/2016 3:36:33 PM,The string recieved :  14   **** *                                                         is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :  13  ***** *    *     *                                             
+4/5/2016 3:36:33 PM,The string recieved :  13  ***** *    *     *                                              is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :  12  ***** *    *     *                                             
+4/5/2016 3:36:33 PM,The string recieved :  12  ***** *    *     *                                              is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :  11 ****** **   *     *                                             
+4/5/2016 3:36:33 PM,The string recieved :  11 ****** **   *     *                                              is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :  10 ****** **   *     *                                             
+4/5/2016 3:36:33 PM,The string recieved :  10 ****** **   *     *                                              is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :   9 ****** ***  *     *                                             
+4/5/2016 3:36:33 PM,The string recieved :   9 ****** ***  *     *                                              is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :   8 ****** ***  *    **                                             
+4/5/2016 3:36:33 PM,The string recieved :   8 ****** ***  *    **                                              is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :   7 ****** ***  *    **       * *                                   
+4/5/2016 3:36:33 PM,The string recieved :   7 ****** ***  *    **       * *                                    is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :   6 **********  *  * **       * *   *                               
+4/5/2016 3:36:33 PM,The string recieved :   6 **********  *  * **       * *   *                                is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :   5 **********  *  * **  * *  * *   *         *                     
+4/5/2016 3:36:33 PM,The string recieved :   5 **********  *  * **  * *  * *   *         *                      is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :   4 *********** * ** **  * ** * *   *         *       **            
+4/5/2016 3:36:33 PM,The string recieved :   4 *********** * ** **  * ** * *   *         *       **             is not a well formed command string
+4/5/2016 3:36:33 PM,Commandstring recieved :   3 ********************** ** * *   *    *  * *     * **    *   *** 
+4/5/2016 3:36:33 PM,The string recieved :   3 ********************** ** * *   *    *  * *     * **    *   ***  is not a well formed command string
+4/5/2016 3:36:34 PM,Commandstring recieved :   2 ************************* ***  **** *** ****  * * ** *  ********
+4/5/2016 3:36:34 PM,The string recieved :   2 ************************* ***  **** *** ****  * * ** *  ******** is not a well formed command string
+4/5/2016 3:36:34 PM,Commandstring recieved :   1 ****************************************************************
+4/5/2016 3:36:34 PM,The string recieved :   1 **************************************************************** is not a well formed command string
+4/5/2016 3:36:34 PM,Commandstring recieved :   0 ****************************************************************
+4/5/2016 3:36:34 PM,The string recieved :   0 **************************************************************** is not a well formed command string
+4/5/2016 3:36:34 PM,Commandstring recieved :     0123456789012345678901234567890123456789012345678901234567890123
+4/5/2016 3:36:34 PM,The string recieved :     0123456789012345678901234567890123456789012345678901234567890123 is not a well formed command string
+4/5/2016 3:36:34 PM,Commandstring recieved :               111111111122222222223333333333444444444455555555556666
+4/5/2016 3:36:34 PM,The string recieved :               111111111122222222223333333333444444444455555555556666 is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved : 
+4/5/2016 3:39:04 PM,While parsing the command string  an exception was generated
+4/5/2016 3:39:04 PM,Index was outside the bounds of the array.
+4/5/2016 3:39:04 PM,Commandstring recieved : 2. Two tones of 1040Hz and 1280Hz sampled at 5120Hz
+4/5/2016 3:39:04 PM,The string recieved : 2. Two tones of 1040Hz and 1280Hz sampled at 5120Hz is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved : 
+4/5/2016 3:39:04 PM,While parsing the command string  an exception was generated
+4/5/2016 3:39:04 PM,Index was outside the bounds of the array.
+4/5/2016 3:39:04 PM,Commandstring recieved :  20  *      *                                                       
+4/5/2016 3:39:04 PM,The string recieved :  20  *      *                                                        is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved :  19  *      *                                                       
+4/5/2016 3:39:04 PM,The string recieved :  19  *      *                                                        is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved :  18  *      **                                                      
+4/5/2016 3:39:04 PM,The string recieved :  18  *      **                                                       is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved :  17  *      **                                                      
+4/5/2016 3:39:04 PM,The string recieved :  17  *      **                                                       is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved :  16  *      **                                                      
+4/5/2016 3:39:04 PM,The string recieved :  16  *      **                                                       is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved :  15  *  *   **                                                      
+4/5/2016 3:39:04 PM,The string recieved :  15  *  *   **                                                       is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved :  14  *  *   **                                                      
+4/5/2016 3:39:04 PM,The string recieved :  14  *  *   **                                                       is not a well formed command string
+4/5/2016 3:39:04 PM,Commandstring recieved :  13  *  *   **                                                      
+4/5/2016 3:39:05 PM,The string recieved :  13  *  *   **                                                       is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :  12  *  *   **                                                      
+4/5/2016 3:39:05 PM,The string recieved :  12  *  *   **                                                       is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :  11  *  *   **                                                      
+4/5/2016 3:39:05 PM,The string recieved :  11  *  *   **                                                       is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :  10  *  *   **    **                                                
+4/5/2016 3:39:05 PM,The string recieved :  10  *  *   **    **                                                 is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   9  *  *   **    **                                                
+4/5/2016 3:39:05 PM,The string recieved :   9  *  *   **    **                                                 is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   8  *  *   **    **                                                
+4/5/2016 3:39:05 PM,The string recieved :   8  *  *   **    **                                                 is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   7  *  *  ***    ** *                                              
+4/5/2016 3:39:05 PM,The string recieved :   7  *  *  ***    ** *                                               is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   6  * **  ***   *** *             *                                
+4/5/2016 3:39:05 PM,The string recieved :   6  * **  ***   *** *             *                                 is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   5  * ******* * *** *             *        *  *                    
+4/5/2016 3:39:05 PM,The string recieved :   5  * ******* * *** *             *        *  *                     is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   4  * ******* * *** ** **   **** **     *  *  *    *              *
+4/5/2016 3:39:05 PM,The string recieved :   4  * ******* * *** ** **   **** **     *  *  *    *              * is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   3  * ******* * *** ***** * **** **    *** * **    **      **    **
+4/5/2016 3:39:05 PM,The string recieved :   3  * ******* * *** ***** * **** **    *** * **    **      **    ** is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   2  *********** ******************** * *** **** ** ** *  * **   ***
+4/5/2016 3:39:05 PM,The string recieved :   2  *********** ******************** * *** **** ** ** *  * **   *** is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   1  *********** ***************************************************
+4/5/2016 3:39:05 PM,The string recieved :   1  *********** *************************************************** is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :   0 ****************************************************************
+4/5/2016 3:39:05 PM,The string recieved :   0 **************************************************************** is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :     0123456789012345678901234567890123456789012345678901234567890123
+4/5/2016 3:39:05 PM,The string recieved :     0123456789012345678901234567890123456789012345678901234567890123 is not a well formed command string
+4/5/2016 3:39:05 PM,Commandstring recieved :               111111111122222222223333333333444444444455555555556666
+4/5/2016 3:39:06 PM,The string recieved :               111111111122222222223333333333444444444455555555556666 is not a well formed command string
+4/5/2016 3:51:58 PM,Serial port : COM27 opened at 9600 baud
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[31]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[31]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[62]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[62]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[93]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[93]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[125]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[125]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[156]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[156]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[190]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[190]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[221]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[221]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[254]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[254]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[288]#
+4/5/2016 3:52:02 PM,The parameters in the command : #S|LOG_DATA|[288]# are not correct for the command type
+4/5/2016 3:52:02 PM,Commandstring recieved : #S|LOG_DATA|[325]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[325]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[346]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[346]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[360]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[360]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[361]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[361]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[370]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[370]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[387]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[387]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[385]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[385]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[390]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[390]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[388]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[388]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[401]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[401]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[420]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[420]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[399]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[399]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[388]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[388]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[408]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[408]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[406]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[406]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[397]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[397]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[397]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[397]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[406]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[406]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[416]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[416]# are not correct for the command type
+4/5/2016 3:52:03 PM,Commandstring recieved : #S|LOG_DATA|[400]#
+4/5/2016 3:52:03 PM,The parameters in the command : #S|LOG_DATA|[400]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[378]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[378]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[399]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[399]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[395]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[395]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[375]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[375]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[369]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[369]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[369]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[369]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[368]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[368]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[356]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[356]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[353]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[353]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[352]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[352]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[351]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[351]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[332]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[332]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[337]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[337]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[341]#
+4/5/2016 3:52:04 PM,The parameters in the command : #S|LOG_DATA|[341]# are not correct for the command type
+4/5/2016 3:52:04 PM,Commandstring recieved : #S|LOG_DATA|[339]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[339]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[331]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[331]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[332]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[332]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[332]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[332]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[327]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[327]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[335]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[335]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[334]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[334]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[333]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[333]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[332]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[332]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[329]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[329]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[329]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[329]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[330]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[330]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[333]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[333]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[333]#
+4/5/2016 3:52:05 PM,The parameters in the command : #S|LOG_DATA|[333]# are not correct for the command type
+4/5/2016 3:52:05 PM,Commandstring recieved : #S|LOG_DATA|[332]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[332]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[325]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[325]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[328]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[328]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[329]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[329]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[325]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[325]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[324]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[324]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[327]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[327]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[325]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[325]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[321]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[321]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[321]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[321]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[321]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[321]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[320]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[320]# are not correct for the command type
+4/5/2016 3:52:06 PM,Commandstring recieved : #S|LOG_DATA|[317]#
+4/5/2016 3:52:06 PM,The parameters in the command : #S|LOG_DATA|[317]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[315]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[315]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[315]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[315]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[317]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[317]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[315]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[315]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[317]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[317]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[318]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[318]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[317]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[317]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[318]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[318]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[319]#
+4/5/2016 3:52:07 PM,The parameters in the command : #S|LOG_DATA|[319]# are not correct for the command type
+4/5/2016 3:52:07 PM,Commandstring recieved : #S|LOG_DATA|[319]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[319]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[319]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[319]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[317]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[317]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[317]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[317]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[316]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[316]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[315]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[315]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:08 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:08 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[315]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[315]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:09 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:09 PM,Commandstring recieved : #S|LOG_DATA|[314]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[314]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[313]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[313]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[312]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[312]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:52:10 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:10 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:52:11 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:11 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:52:11 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:11 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:52:11 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:11 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:52:11 PM,Commandstring recieved : #S|LOG_DATA|[311]#
+4/5/2016 3:52:11 PM,The parameters in the command : #S|LOG_DATA|[311]# are not correct for the command type
+4/5/2016 3:54:28 PM,Serial port : COM27 opened at 9600 baud
+4/5/2016 3:54:31 PM,Commandstring recieved : #S|LOGDATA|[31]#
+4/5/2016 3:54:31 PM,Command parsed OK
+4/5/2016 3:54:31 PM,Executing command : LOGDATA
+4/5/2016 3:54:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:31 PM,Commandstring recieved : #S|LOGDATA|[62]#
+4/5/2016 3:54:31 PM,Command parsed OK
+4/5/2016 3:54:31 PM,Executing command : LOGDATA
+4/5/2016 3:54:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:31 PM,Commandstring recieved : #S|LOGDATA|[93]#
+4/5/2016 3:54:31 PM,Command parsed OK
+4/5/2016 3:54:31 PM,Executing command : LOGDATA
+4/5/2016 3:54:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:31 PM,Commandstring recieved : #S|LOGDATA|[125]#
+4/5/2016 3:54:31 PM,Command parsed OK
+4/5/2016 3:54:31 PM,Executing command : LOGDATA
+4/5/2016 3:54:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:31 PM,Commandstring recieved : #S|LOGDATA|[156]#
+4/5/2016 3:54:31 PM,Command parsed OK
+4/5/2016 3:54:31 PM,Executing command : LOGDATA
+4/5/2016 3:54:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:31 PM,Commandstring recieved : #S|LOGDATA|[187]#
+4/5/2016 3:54:31 PM,Command parsed OK
+4/5/2016 3:54:31 PM,Executing command : LOGDATA
+4/5/2016 3:54:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[219]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[253]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[284]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[330]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[345]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[355]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:32 PM,Commandstring recieved : #S|LOGDATA|[352]#
+4/5/2016 3:54:32 PM,Command parsed OK
+4/5/2016 3:54:32 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[357]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[364]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[377]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[385]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[382]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[382]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[402]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[392]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:33 PM,Commandstring recieved : #S|LOGDATA|[382]#
+4/5/2016 3:54:33 PM,Command parsed OK
+4/5/2016 3:54:33 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[384]#
+4/5/2016 3:54:34 PM,Command parsed OK
+4/5/2016 3:54:34 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[410]#
+4/5/2016 3:54:34 PM,Command parsed OK
+4/5/2016 3:54:34 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[403]#
+4/5/2016 3:54:34 PM,Command parsed OK
+4/5/2016 3:54:34 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[393]#
+4/5/2016 3:54:34 PM,Command parsed OK
+4/5/2016 3:54:34 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[396]#
+4/5/2016 3:54:34 PM,Command parsed OK
+4/5/2016 3:54:34 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[416]#
+4/5/2016 3:54:34 PM,Command parsed OK
+4/5/2016 3:54:34 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[412]#
+4/5/2016 3:54:34 PM,Command parsed OK
+4/5/2016 3:54:34 PM,Executing command : LOGDATA
+4/5/2016 3:54:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:34 PM,Commandstring recieved : #S|LOGDATA|[388]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:35 PM,Commandstring recieved : #S|LOGDATA|[390]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:35 PM,Commandstring recieved : #S|LOGDATA|[400]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:35 PM,Commandstring recieved : #S|LOGDATA|[397]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:35 PM,Commandstring recieved : #S|LOGDATA|[368]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:35 PM,Commandstring recieved : #S|LOGDATA|[378]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:35 PM,Commandstring recieved : #S|LOGDATA|[376]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:35 PM,Commandstring recieved : #S|LOGDATA|[365]#
+4/5/2016 3:54:35 PM,Command parsed OK
+4/5/2016 3:54:35 PM,Executing command : LOGDATA
+4/5/2016 3:54:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:36 PM,Commandstring recieved : #S|LOGDATA|[344]#
+4/5/2016 3:54:36 PM,Command parsed OK
+4/5/2016 3:54:36 PM,Executing command : LOGDATA
+4/5/2016 3:54:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:36 PM,Commandstring recieved : #S|LOGDATA|[349]#
+4/5/2016 3:54:36 PM,Command parsed OK
+4/5/2016 3:54:36 PM,Executing command : LOGDATA
+4/5/2016 3:54:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:36 PM,Commandstring recieved : #S|LOGDATA|[347]#
+4/5/2016 3:54:36 PM,Command parsed OK
+4/5/2016 3:54:36 PM,Executing command : LOGDATA
+4/5/2016 3:54:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:36 PM,Commandstring recieved : #S|LOGDATA|[340]#
+4/5/2016 3:54:36 PM,Command parsed OK
+4/5/2016 3:54:36 PM,Executing command : LOGDATA
+4/5/2016 3:54:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:36 PM,Commandstring recieved : #S|LOGDATA|[331]#
+4/5/2016 3:54:36 PM,Command parsed OK
+4/5/2016 3:54:36 PM,Executing command : LOGDATA
+4/5/2016 3:54:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:36 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 3:54:36 PM,Command parsed OK
+4/5/2016 3:54:36 PM,Executing command : LOGDATA
+4/5/2016 3:54:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:36 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:54:36 PM,Command parsed OK
+4/5/2016 3:54:36 PM,Executing command : LOGDATA
+4/5/2016 3:54:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:37 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:54:37 PM,Command parsed OK
+4/5/2016 3:54:37 PM,Executing command : LOGDATA
+4/5/2016 3:54:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:37 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 3:54:37 PM,Command parsed OK
+4/5/2016 3:54:37 PM,Executing command : LOGDATA
+4/5/2016 3:54:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:37 PM,Commandstring recieved : #S|LOGDATA|[332]#
+4/5/2016 3:54:37 PM,Command parsed OK
+4/5/2016 3:54:37 PM,Executing command : LOGDATA
+4/5/2016 3:54:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:37 PM,Commandstring recieved : #S|LOGDATA|[331]#
+4/5/2016 3:54:37 PM,Command parsed OK
+4/5/2016 3:54:37 PM,Executing command : LOGDATA
+4/5/2016 3:54:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:37 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:54:37 PM,Command parsed OK
+4/5/2016 3:54:37 PM,Executing command : LOGDATA
+4/5/2016 3:54:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:37 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:54:37 PM,Command parsed OK
+4/5/2016 3:54:38 PM,Executing command : LOGDATA
+4/5/2016 3:54:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:38 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 3:54:38 PM,Command parsed OK
+4/5/2016 3:54:38 PM,Executing command : LOGDATA
+4/5/2016 3:54:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:38 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 3:54:38 PM,Command parsed OK
+4/5/2016 3:54:38 PM,Executing command : LOGDATA
+4/5/2016 3:54:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:38 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:54:38 PM,Command parsed OK
+4/5/2016 3:54:38 PM,Executing command : LOGDATA
+4/5/2016 3:54:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:38 PM,Commandstring recieved : #S|LOGDATA|[342]#
+4/5/2016 3:54:38 PM,Command parsed OK
+4/5/2016 3:54:38 PM,Executing command : LOGDATA
+4/5/2016 3:54:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:38 PM,Commandstring recieved : #S|LOGDATA|[341]#
+4/5/2016 3:54:38 PM,Command parsed OK
+4/5/2016 3:54:38 PM,Executing command : LOGDATA
+4/5/2016 3:54:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:38 PM,Commandstring recieved : #S|LOGDATA|[339]#
+4/5/2016 3:54:38 PM,Command parsed OK
+4/5/2016 3:54:38 PM,Executing command : LOGDATA
+4/5/2016 3:54:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:39 PM,Commandstring recieved : #S|LOGDATA|[339]#
+4/5/2016 3:54:39 PM,Command parsed OK
+4/5/2016 3:54:39 PM,Executing command : LOGDATA
+4/5/2016 3:54:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:39 PM,Commandstring recieved : #S|LOGDATA|[344]#
+4/5/2016 3:54:39 PM,Command parsed OK
+4/5/2016 3:54:39 PM,Executing command : LOGDATA
+4/5/2016 3:54:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:39 PM,Commandstring recieved : #S|LOGDATA|[343]#
+4/5/2016 3:54:39 PM,Command parsed OK
+4/5/2016 3:54:39 PM,Executing command : LOGDATA
+4/5/2016 3:54:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:39 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:54:39 PM,Command parsed OK
+4/5/2016 3:54:39 PM,Executing command : LOGDATA
+4/5/2016 3:54:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:39 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:54:39 PM,Command parsed OK
+4/5/2016 3:54:39 PM,Executing command : LOGDATA
+4/5/2016 3:54:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:40 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:54:40 PM,Command parsed OK
+4/5/2016 3:54:40 PM,Executing command : LOGDATA
+4/5/2016 3:54:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:40 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:54:40 PM,Command parsed OK
+4/5/2016 3:54:40 PM,Executing command : LOGDATA
+4/5/2016 3:54:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:40 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 3:54:40 PM,Command parsed OK
+4/5/2016 3:54:40 PM,Executing command : LOGDATA
+4/5/2016 3:54:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:40 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 3:54:40 PM,Command parsed OK
+4/5/2016 3:54:40 PM,Executing command : LOGDATA
+4/5/2016 3:54:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:40 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 3:54:40 PM,Command parsed OK
+4/5/2016 3:54:40 PM,Executing command : LOGDATA
+4/5/2016 3:54:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:41 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:54:41 PM,Command parsed OK
+4/5/2016 3:54:41 PM,Executing command : LOGDATA
+4/5/2016 3:54:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:41 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 3:54:41 PM,Command parsed OK
+4/5/2016 3:54:41 PM,Executing command : LOGDATA
+4/5/2016 3:54:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:41 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 3:54:41 PM,Command parsed OK
+4/5/2016 3:54:41 PM,Executing command : LOGDATA
+4/5/2016 3:54:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:41 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 3:54:41 PM,Command parsed OK
+4/5/2016 3:54:41 PM,Executing command : LOGDATA
+4/5/2016 3:54:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:41 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:54:41 PM,Command parsed OK
+4/5/2016 3:54:41 PM,Executing command : LOGDATA
+4/5/2016 3:54:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:42 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:54:42 PM,Command parsed OK
+4/5/2016 3:54:42 PM,Executing command : LOGDATA
+4/5/2016 3:54:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:42 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:54:42 PM,Command parsed OK
+4/5/2016 3:54:42 PM,Executing command : LOGDATA
+4/5/2016 3:54:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:42 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:54:42 PM,Command parsed OK
+4/5/2016 3:54:42 PM,Executing command : LOGDATA
+4/5/2016 3:54:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:42 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:54:42 PM,Command parsed OK
+4/5/2016 3:54:42 PM,Executing command : LOGDATA
+4/5/2016 3:54:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:43 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:54:43 PM,Command parsed OK
+4/5/2016 3:54:43 PM,Executing command : LOGDATA
+4/5/2016 3:54:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:43 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:54:43 PM,Command parsed OK
+4/5/2016 3:54:43 PM,Executing command : LOGDATA
+4/5/2016 3:54:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:43 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:54:43 PM,Command parsed OK
+4/5/2016 3:54:43 PM,Executing command : LOGDATA
+4/5/2016 3:54:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:43 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:54:43 PM,Command parsed OK
+4/5/2016 3:54:44 PM,Executing command : LOGDATA
+4/5/2016 3:54:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:44 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 3:54:44 PM,Command parsed OK
+4/5/2016 3:54:44 PM,Executing command : LOGDATA
+4/5/2016 3:54:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:44 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:54:44 PM,Command parsed OK
+4/5/2016 3:54:44 PM,Executing command : LOGDATA
+4/5/2016 3:54:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:44 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:54:44 PM,Command parsed OK
+4/5/2016 3:54:44 PM,Executing command : LOGDATA
+4/5/2016 3:54:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:44 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:54:44 PM,Command parsed OK
+4/5/2016 3:54:44 PM,Executing command : LOGDATA
+4/5/2016 3:54:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:45 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:54:45 PM,Command parsed OK
+4/5/2016 3:54:45 PM,Executing command : LOGDATA
+4/5/2016 3:54:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:45 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:54:45 PM,Command parsed OK
+4/5/2016 3:54:45 PM,Executing command : LOGDATA
+4/5/2016 3:54:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:45 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:54:45 PM,Command parsed OK
+4/5/2016 3:54:45 PM,Executing command : LOGDATA
+4/5/2016 3:54:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:45 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:54:45 PM,Command parsed OK
+4/5/2016 3:54:45 PM,Executing command : LOGDATA
+4/5/2016 3:54:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:46 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 3:54:46 PM,Command parsed OK
+4/5/2016 3:54:46 PM,Executing command : LOGDATA
+4/5/2016 3:54:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:46 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:54:46 PM,Command parsed OK
+4/5/2016 3:54:46 PM,Executing command : LOGDATA
+4/5/2016 3:54:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:46 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:54:46 PM,Command parsed OK
+4/5/2016 3:54:46 PM,Executing command : LOGDATA
+4/5/2016 3:54:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:46 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:54:46 PM,Command parsed OK
+4/5/2016 3:54:46 PM,Executing command : LOGDATA
+4/5/2016 3:54:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:47 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:54:47 PM,Command parsed OK
+4/5/2016 3:54:47 PM,Executing command : LOGDATA
+4/5/2016 3:54:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:47 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:54:47 PM,Command parsed OK
+4/5/2016 3:54:47 PM,Executing command : LOGDATA
+4/5/2016 3:54:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:47 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:54:47 PM,Command parsed OK
+4/5/2016 3:54:47 PM,Executing command : LOGDATA
+4/5/2016 3:54:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:47 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:54:47 PM,Command parsed OK
+4/5/2016 3:54:47 PM,Executing command : LOGDATA
+4/5/2016 3:54:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:48 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:54:48 PM,Command parsed OK
+4/5/2016 3:54:48 PM,Executing command : LOGDATA
+4/5/2016 3:54:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:48 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:54:48 PM,Command parsed OK
+4/5/2016 3:54:48 PM,Executing command : LOGDATA
+4/5/2016 3:54:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:48 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:54:48 PM,Command parsed OK
+4/5/2016 3:54:48 PM,Executing command : LOGDATA
+4/5/2016 3:54:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:48 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:54:48 PM,Command parsed OK
+4/5/2016 3:54:48 PM,Executing command : LOGDATA
+4/5/2016 3:54:49 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:49 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:54:49 PM,Command parsed OK
+4/5/2016 3:54:49 PM,Executing command : LOGDATA
+4/5/2016 3:54:49 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:49 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:54:49 PM,Command parsed OK
+4/5/2016 3:54:49 PM,Executing command : LOGDATA
+4/5/2016 3:54:49 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:49 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:54:49 PM,Command parsed OK
+4/5/2016 3:54:49 PM,Executing command : LOGDATA
+4/5/2016 3:54:49 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:49 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:54:50 PM,Command parsed OK
+4/5/2016 3:54:50 PM,Executing command : LOGDATA
+4/5/2016 3:54:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:54:50 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:54:50 PM,Command parsed OK
+4/5/2016 3:54:50 PM,Executing command : LOGDATA
+4/5/2016 3:54:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:56 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:56:56 PM,Command parsed OK
+4/5/2016 3:56:56 PM,Executing command : LOGDATA
+4/5/2016 3:56:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:56 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:56:56 PM,Command parsed OK
+4/5/2016 3:56:56 PM,Executing command : LOGDATA
+4/5/2016 3:56:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:56 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:56:56 PM,Command parsed OK
+4/5/2016 3:56:56 PM,Executing command : LOGDATA
+4/5/2016 3:56:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:57 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:56:57 PM,Command parsed OK
+4/5/2016 3:56:57 PM,Executing command : LOGDATA
+4/5/2016 3:56:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:57 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:56:57 PM,Command parsed OK
+4/5/2016 3:56:57 PM,Executing command : LOGDATA
+4/5/2016 3:56:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:57 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:56:57 PM,Command parsed OK
+4/5/2016 3:56:57 PM,Executing command : LOGDATA
+4/5/2016 3:56:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:57 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:56:57 PM,Command parsed OK
+4/5/2016 3:56:58 PM,Executing command : LOGDATA
+4/5/2016 3:56:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:58 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:56:58 PM,Command parsed OK
+4/5/2016 3:56:58 PM,Executing command : LOGDATA
+4/5/2016 3:56:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:58 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:56:58 PM,Command parsed OK
+4/5/2016 3:56:58 PM,Executing command : LOGDATA
+4/5/2016 3:56:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:58 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:56:58 PM,Command parsed OK
+4/5/2016 3:56:58 PM,Executing command : LOGDATA
+4/5/2016 3:56:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:59 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:56:59 PM,Command parsed OK
+4/5/2016 3:56:59 PM,Executing command : LOGDATA
+4/5/2016 3:56:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:59 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:56:59 PM,Command parsed OK
+4/5/2016 3:56:59 PM,Executing command : LOGDATA
+4/5/2016 3:56:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:59 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:56:59 PM,Command parsed OK
+4/5/2016 3:56:59 PM,Executing command : LOGDATA
+4/5/2016 3:56:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:56:59 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:56:59 PM,Command parsed OK
+4/5/2016 3:56:59 PM,Executing command : LOGDATA
+4/5/2016 3:57:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:00 PM,Commandstring recieved : #S|LOGDATA|[341]#
+4/5/2016 3:57:00 PM,Command parsed OK
+4/5/2016 3:57:00 PM,Executing command : LOGDATA
+4/5/2016 3:57:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:00 PM,Commandstring recieved : #S|LOGDATA|[341]#?S|~?Q?m?42]#
+4/5/2016 3:57:00 PM,The string recieved : #S|LOGDATA|[341]#?S|~?Q?m?42]# is not a well formed command string
+4/5/2016 3:57:00 PM,Commandstring recieved : #S|LOGDATA|[353]#
+4/5/2016 3:57:00 PM,Command parsed OK
+4/5/2016 3:57:00 PM,Executing command : LOGDATA
+4/5/2016 3:57:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:00 PM,Commandstring recieved : #S|LOGDATA|[352]#
+4/5/2016 3:57:00 PM,Command parsed OK
+4/5/2016 3:57:00 PM,Executing command : LOGDATA
+4/5/2016 3:57:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:01 PM,Commandstring recieved : #S|LOGDATA|[354]#
+4/5/2016 3:57:01 PM,Command parsed OK
+4/5/2016 3:57:01 PM,Executing command : LOGDATA
+4/5/2016 3:57:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:01 PM,Commandstring recieved : #S|LOGDATA|[362]#
+4/5/2016 3:57:01 PM,Command parsed OK
+4/5/2016 3:57:01 PM,Executing command : LOGDATA
+4/5/2016 3:57:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:01 PM,Commandstring recieved : #S|LOGDATA|[393]#
+4/5/2016 3:57:01 PM,Command parsed OK
+4/5/2016 3:57:01 PM,Executing command : LOGDATA
+4/5/2016 3:57:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:02 PM,Commandstring recieved : #S|LOGDATA|[406]#
+4/5/2016 3:57:02 PM,Command parsed OK
+4/5/2016 3:57:02 PM,Executing command : LOGDATA
+4/5/2016 3:57:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:02 PM,Commandstring recieved : #S|LOGDATA|[406]#
+4/5/2016 3:57:02 PM,Command parsed OK
+4/5/2016 3:57:02 PM,Executing command : LOGDATA
+4/5/2016 3:57:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:02 PM,Commandstring recieved : #S|LOGDATA|[403]#
+4/5/2016 3:57:02 PM,Command parsed OK
+4/5/2016 3:57:02 PM,Executing command : LOGDATA
+4/5/2016 3:57:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:03 PM,Commandstring recieved : #S|LOGDATA|[407]#
+4/5/2016 3:57:03 PM,Command parsed OK
+4/5/2016 3:57:03 PM,Executing command : LOGDATA
+4/5/2016 3:57:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:03 PM,Commandstring recieved : #S|LOGDATA|[405]#
+4/5/2016 3:57:03 PM,Command parsed OK
+4/5/2016 3:57:03 PM,Executing command : LOGDATA
+4/5/2016 3:57:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:03 PM,Commandstring recieved : #S|LOGDATA|[394]#
+4/5/2016 3:57:03 PM,Command parsed OK
+4/5/2016 3:57:03 PM,Executing command : LOGDATA
+4/5/2016 3:57:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:03 PM,Commandstring recieved : #S|LOGDATA|[394]#
+4/5/2016 3:57:04 PM,Command parsed OK
+4/5/2016 3:57:04 PM,Executing command : LOGDATA
+4/5/2016 3:57:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:04 PM,Commandstring recieved : #S|LOGDATA|[394]#
+4/5/2016 3:57:04 PM,Command parsed OK
+4/5/2016 3:57:04 PM,Executing command : LOGDATA
+4/5/2016 3:57:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:04 PM,Commandstring recieved : #S|LOGDATA|[394]#
+4/5/2016 3:57:04 PM,Command parsed OK
+4/5/2016 3:57:04 PM,Executing command : LOGDATA
+4/5/2016 3:57:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:04 PM,Commandstring recieved : #S|LOGDATA|[367]#
+4/5/2016 3:57:05 PM,Command parsed OK
+4/5/2016 3:57:05 PM,Executing command : LOGDATA
+4/5/2016 3:57:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:05 PM,Commandstring recieved : #S|LOGDATA|[357]#
+4/5/2016 3:57:05 PM,Command parsed OK
+4/5/2016 3:57:05 PM,Executing command : LOGDATA
+4/5/2016 3:57:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:05 PM,Commandstring recieved : #S|LOGDATA|[346]#
+4/5/2016 3:57:05 PM,Command parsed OK
+4/5/2016 3:57:05 PM,Executing command : LOGDATA
+4/5/2016 3:57:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:05 PM,Commandstring recieved : #S|LOGDATA|[342]#
+4/5/2016 3:57:05 PM,Command parsed OK
+4/5/2016 3:57:06 PM,Executing command : LOGDATA
+4/5/2016 3:57:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:06 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 3:57:06 PM,Command parsed OK
+4/5/2016 3:57:06 PM,Executing command : LOGDATA
+4/5/2016 3:57:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:06 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 3:57:06 PM,Command parsed OK
+4/5/2016 3:57:06 PM,Executing command : LOGDATA
+4/5/2016 3:57:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:06 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:57:06 PM,Command parsed OK
+4/5/2016 3:57:06 PM,Executing command : LOGDATA
+4/5/2016 3:57:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:07 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:57:07 PM,Command parsed OK
+4/5/2016 3:57:07 PM,Executing command : LOGDATA
+4/5/2016 3:57:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:07 PM,Commandstring recieved : #S|LOGDATA|[335]#
+4/5/2016 3:57:07 PM,Command parsed OK
+4/5/2016 3:57:07 PM,Executing command : LOGDATA
+4/5/2016 3:57:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:07 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 3:57:07 PM,Command parsed OK
+4/5/2016 3:57:08 PM,Executing command : LOGDATA
+4/5/2016 3:57:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:08 PM,Commandstring recieved : #S|LOGDATA|[340]#
+4/5/2016 3:57:08 PM,Command parsed OK
+4/5/2016 3:57:08 PM,Executing command : LOGDATA
+4/5/2016 3:57:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:08 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:57:08 PM,Command parsed OK
+4/5/2016 3:57:08 PM,Executing command : LOGDATA
+4/5/2016 3:57:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:08 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:57:08 PM,Command parsed OK
+4/5/2016 3:57:08 PM,Executing command : LOGDATA
+4/5/2016 3:57:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:09 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:57:09 PM,Command parsed OK
+4/5/2016 3:57:09 PM,Executing command : LOGDATA
+4/5/2016 3:57:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:09 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:57:09 PM,Command parsed OK
+4/5/2016 3:57:09 PM,Executing command : LOGDATA
+4/5/2016 3:57:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:09 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:57:09 PM,Command parsed OK
+4/5/2016 3:57:10 PM,Executing command : LOGDATA
+4/5/2016 3:57:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:10 PM,Commandstring recieved : #S|LOGDATA|[344]#
+4/5/2016 3:57:10 PM,Command parsed OK
+4/5/2016 3:57:10 PM,Executing command : LOGDATA
+4/5/2016 3:57:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:10 PM,Commandstring recieved : #S|LOGDATA|[352]#
+4/5/2016 3:57:10 PM,Command parsed OK
+4/5/2016 3:57:10 PM,Executing command : LOGDATA
+4/5/2016 3:57:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:11 PM,Commandstring recieved : #S|LOGDATA|[350]#
+4/5/2016 3:57:11 PM,Command parsed OK
+4/5/2016 3:57:11 PM,Executing command : LOGDATA
+4/5/2016 3:57:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:11 PM,Commandstring recieved : #S|LOGDATA|[339]#
+4/5/2016 3:57:11 PM,Command parsed OK
+4/5/2016 3:57:11 PM,Executing command : LOGDATA
+4/5/2016 3:57:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:11 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:57:11 PM,Command parsed OK
+4/5/2016 3:57:11 PM,Executing command : LOGDATA
+4/5/2016 3:57:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:12 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:57:12 PM,Command parsed OK
+4/5/2016 3:57:12 PM,Executing command : LOGDATA
+4/5/2016 3:57:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:12 PM,Commandstring recieved : #S|LOGDATA|[335]#
+4/5/2016 3:57:12 PM,Command parsed OK
+4/5/2016 3:57:12 PM,Executing command : LOGDATA
+4/5/2016 3:57:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:12 PM,Commandstring recieved : #S|LOGDATA|[341]#
+4/5/2016 3:57:12 PM,Command parsed OK
+4/5/2016 3:57:12 PM,Executing command : LOGDATA
+4/5/2016 3:57:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:13 PM,Commandstring recieved : #S|LOGDATA|[347]#
+4/5/2016 3:57:13 PM,Command parsed OK
+4/5/2016 3:57:13 PM,Executing command : LOGDATA
+4/5/2016 3:57:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:13 PM,Commandstring recieved : #S|LOGDATA|[347]#
+4/5/2016 3:57:13 PM,Command parsed OK
+4/5/2016 3:57:13 PM,Executing command : LOGDATA
+4/5/2016 3:57:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:13 PM,Commandstring recieved : #S|LOGDATA|[342]#
+4/5/2016 3:57:14 PM,Command parsed OK
+4/5/2016 3:57:14 PM,Executing command : LOGDATA
+4/5/2016 3:57:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:14 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:57:14 PM,Command parsed OK
+4/5/2016 3:57:14 PM,Executing command : LOGDATA
+4/5/2016 3:57:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:14 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:57:14 PM,Command parsed OK
+4/5/2016 3:57:14 PM,Executing command : LOGDATA
+4/5/2016 3:57:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:15 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 3:57:15 PM,Command parsed OK
+4/5/2016 3:57:15 PM,Executing command : LOGDATA
+4/5/2016 3:57:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:15 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:57:15 PM,Command parsed OK
+4/5/2016 3:57:15 PM,Executing command : LOGDATA
+4/5/2016 3:57:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:15 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:57:15 PM,Command parsed OK
+4/5/2016 3:57:15 PM,Executing command : LOGDATA
+4/5/2016 3:57:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:16 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 3:57:16 PM,Command parsed OK
+4/5/2016 3:57:16 PM,Executing command : LOGDATA
+4/5/2016 3:57:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:16 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 3:57:16 PM,Command parsed OK
+4/5/2016 3:57:16 PM,Executing command : LOGDATA
+4/5/2016 3:57:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:16 PM,Commandstring recieved : #S|LOGDATA|[330]#
+4/5/2016 3:57:17 PM,Command parsed OK
+4/5/2016 3:57:17 PM,Executing command : LOGDATA
+4/5/2016 3:57:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:17 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 3:57:17 PM,Command parsed OK
+4/5/2016 3:57:17 PM,Executing command : LOGDATA
+4/5/2016 3:57:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:17 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:17 PM,Command parsed OK
+4/5/2016 3:57:17 PM,Executing command : LOGDATA
+4/5/2016 3:57:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:18 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:18 PM,Command parsed OK
+4/5/2016 3:57:18 PM,Executing command : LOGDATA
+4/5/2016 3:57:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:18 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:18 PM,Command parsed OK
+4/5/2016 3:57:18 PM,Executing command : LOGDATA
+4/5/2016 3:57:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:18 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:18 PM,Command parsed OK
+4/5/2016 3:57:19 PM,Executing command : LOGDATA
+4/5/2016 3:57:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:19 PM,Commandstring recieved : #S|LOGDATA|[328]#
+4/5/2016 3:57:19 PM,Command parsed OK
+4/5/2016 3:57:19 PM,Executing command : LOGDATA
+4/5/2016 3:57:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:19 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 3:57:19 PM,Command parsed OK
+4/5/2016 3:57:19 PM,Executing command : LOGDATA
+4/5/2016 3:57:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:20 PM,Commandstring recieved : #S|LOGDATA|[330]#
+4/5/2016 3:57:20 PM,Command parsed OK
+4/5/2016 3:57:20 PM,Executing command : LOGDATA
+4/5/2016 3:57:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:20 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:20 PM,Command parsed OK
+4/5/2016 3:57:20 PM,Executing command : LOGDATA
+4/5/2016 3:57:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:20 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 3:57:20 PM,Command parsed OK
+4/5/2016 3:57:20 PM,Executing command : LOGDATA
+4/5/2016 3:57:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:21 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 3:57:21 PM,Command parsed OK
+4/5/2016 3:57:21 PM,Executing command : LOGDATA
+4/5/2016 3:57:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:21 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 3:57:21 PM,Command parsed OK
+4/5/2016 3:57:21 PM,Executing command : LOGDATA
+4/5/2016 3:57:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:22 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 3:57:22 PM,Command parsed OK
+4/5/2016 3:57:22 PM,Executing command : LOGDATA
+4/5/2016 3:57:22 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:22 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 3:57:22 PM,Command parsed OK
+4/5/2016 3:57:22 PM,Executing command : LOGDATA
+4/5/2016 3:57:22 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:22 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 3:57:23 PM,Command parsed OK
+4/5/2016 3:57:23 PM,Executing command : LOGDATA
+4/5/2016 3:57:23 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:23 PM,Commandstring recieved : #S|LOGDATA|[335]#
+4/5/2016 3:57:23 PM,Command parsed OK
+4/5/2016 3:57:23 PM,Executing command : LOGDATA
+4/5/2016 3:57:23 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:23 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 3:57:23 PM,Command parsed OK
+4/5/2016 3:57:23 PM,Executing command : LOGDATA
+4/5/2016 3:57:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:24 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:24 PM,Command parsed OK
+4/5/2016 3:57:24 PM,Executing command : LOGDATA
+4/5/2016 3:57:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:24 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:24 PM,Command parsed OK
+4/5/2016 3:57:24 PM,Executing command : LOGDATA
+4/5/2016 3:57:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:24 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:25 PM,Command parsed OK
+4/5/2016 3:57:25 PM,Executing command : LOGDATA
+4/5/2016 3:57:25 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:25 PM,Commandstring recieved : #S|LOGDATA|[330]#
+4/5/2016 3:57:25 PM,Command parsed OK
+4/5/2016 3:57:25 PM,Executing command : LOGDATA
+4/5/2016 3:57:25 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:25 PM,Commandstring recieved : #S|LOGDATA|[335]#
+4/5/2016 3:57:25 PM,Command parsed OK
+4/5/2016 3:57:26 PM,Executing command : LOGDATA
+4/5/2016 3:57:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:26 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 3:57:26 PM,Command parsed OK
+4/5/2016 3:57:26 PM,Executing command : LOGDATA
+4/5/2016 3:57:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:26 PM,Commandstring recieved : #S|LOGDATA|[335]#
+4/5/2016 3:57:26 PM,Command parsed OK
+4/5/2016 3:57:26 PM,Executing command : LOGDATA
+4/5/2016 3:57:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:27 PM,Commandstring recieved : #S|LOGDATA|[330]#
+4/5/2016 3:57:27 PM,Command parsed OK
+4/5/2016 3:57:27 PM,Executing command : LOGDATA
+4/5/2016 3:57:27 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:27 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:27 PM,Command parsed OK
+4/5/2016 3:57:27 PM,Executing command : LOGDATA
+4/5/2016 3:57:27 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:27 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:28 PM,Command parsed OK
+4/5/2016 3:57:28 PM,Executing command : LOGDATA
+4/5/2016 3:57:28 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:28 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:28 PM,Command parsed OK
+4/5/2016 3:57:28 PM,Executing command : LOGDATA
+4/5/2016 3:57:28 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:28 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 3:57:28 PM,Command parsed OK
+4/5/2016 3:57:29 PM,Executing command : LOGDATA
+4/5/2016 3:57:29 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:29 PM,Commandstring recieved : #S|LOGDATA|[331]#
+4/5/2016 3:57:29 PM,Command parsed OK
+4/5/2016 3:57:29 PM,Executing command : LOGDATA
+4/5/2016 3:57:29 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:29 PM,Commandstring recieved : #S|LOGDATA|[331]#
+4/5/2016 3:57:29 PM,Command parsed OK
+4/5/2016 3:57:29 PM,Executing command : LOGDATA
+4/5/2016 3:57:30 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:30 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:30 PM,Command parsed OK
+4/5/2016 3:57:30 PM,Executing command : LOGDATA
+4/5/2016 3:57:30 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:30 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:57:31 PM,Command parsed OK
+4/5/2016 3:57:31 PM,Executing command : LOGDATA
+4/5/2016 3:57:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:31 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:31 PM,Command parsed OK
+4/5/2016 3:57:31 PM,Executing command : LOGDATA
+4/5/2016 3:57:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:32 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:32 PM,Command parsed OK
+4/5/2016 3:57:32 PM,Executing command : LOGDATA
+4/5/2016 3:57:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:32 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:32 PM,Command parsed OK
+4/5/2016 3:57:33 PM,Executing command : LOGDATA
+4/5/2016 3:57:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:33 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 3:57:33 PM,Command parsed OK
+4/5/2016 3:57:33 PM,Executing command : LOGDATA
+4/5/2016 3:57:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:34 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:57:34 PM,Command parsed OK
+4/5/2016 3:57:34 PM,Executing command : LOGDATA
+4/5/2016 3:57:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:34 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 3:57:34 PM,Command parsed OK
+4/5/2016 3:57:35 PM,Executing command : LOGDATA
+4/5/2016 3:57:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:35 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 3:57:35 PM,Command parsed OK
+4/5/2016 3:57:35 PM,Executing command : LOGDATA
+4/5/2016 3:57:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:35 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:57:36 PM,Command parsed OK
+4/5/2016 3:57:36 PM,Executing command : LOGDATA
+4/5/2016 3:57:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:36 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:57:36 PM,Command parsed OK
+4/5/2016 3:57:36 PM,Executing command : LOGDATA
+4/5/2016 3:57:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:37 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:57:37 PM,Command parsed OK
+4/5/2016 3:57:37 PM,Executing command : LOGDATA
+4/5/2016 3:57:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:38 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:38 PM,Command parsed OK
+4/5/2016 3:57:38 PM,Executing command : LOGDATA
+4/5/2016 3:57:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:38 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 3:57:38 PM,Command parsed OK
+4/5/2016 3:57:38 PM,Executing command : LOGDATA
+4/5/2016 3:57:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:39 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:39 PM,Command parsed OK
+4/5/2016 3:57:39 PM,Executing command : LOGDATA
+4/5/2016 3:57:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:39 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 3:57:39 PM,Command parsed OK
+4/5/2016 3:57:40 PM,Executing command : LOGDATA
+4/5/2016 3:57:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:40 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:40 PM,Command parsed OK
+4/5/2016 3:57:40 PM,Executing command : LOGDATA
+4/5/2016 3:57:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:41 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:57:41 PM,Command parsed OK
+4/5/2016 3:57:41 PM,Executing command : LOGDATA
+4/5/2016 3:57:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:41 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:42 PM,Command parsed OK
+4/5/2016 3:57:42 PM,Executing command : LOGDATA
+4/5/2016 3:57:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:42 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:42 PM,Command parsed OK
+4/5/2016 3:57:43 PM,Executing command : LOGDATA
+4/5/2016 3:57:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:43 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 3:57:43 PM,Command parsed OK
+4/5/2016 3:57:44 PM,Executing command : LOGDATA
+4/5/2016 3:57:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:44 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:57:44 PM,Command parsed OK
+4/5/2016 3:57:44 PM,Executing command : LOGDATA
+4/5/2016 3:57:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:45 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 3:57:45 PM,Command parsed OK
+4/5/2016 3:57:45 PM,Executing command : LOGDATA
+4/5/2016 3:57:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:46 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 3:57:46 PM,Command parsed OK
+4/5/2016 3:57:46 PM,Executing command : LOGDATA
+4/5/2016 3:57:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:46 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 3:57:47 PM,Command parsed OK
+4/5/2016 3:57:47 PM,Executing command : LOGDATA
+4/5/2016 3:57:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:47 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 3:57:47 PM,Command parsed OK
+4/5/2016 3:57:47 PM,Executing command : LOGDATA
+4/5/2016 3:57:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:48 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:57:48 PM,Command parsed OK
+4/5/2016 3:57:48 PM,Executing command : LOGDATA
+4/5/2016 3:57:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:49 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:57:49 PM,Command parsed OK
+4/5/2016 3:57:49 PM,Executing command : LOGDATA
+4/5/2016 3:57:49 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:49 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:49 PM,Command parsed OK
+4/5/2016 3:57:50 PM,Executing command : LOGDATA
+4/5/2016 3:57:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:50 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 3:57:50 PM,Command parsed OK
+4/5/2016 3:57:50 PM,Executing command : LOGDATA
+4/5/2016 3:57:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:50 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 3:57:50 PM,Command parsed OK
+4/5/2016 3:57:51 PM,Executing command : LOGDATA
+4/5/2016 3:57:51 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:51 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 3:57:51 PM,Command parsed OK
+4/5/2016 3:57:51 PM,Executing command : LOGDATA
+4/5/2016 3:57:51 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:52 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:52 PM,Command parsed OK
+4/5/2016 3:57:52 PM,Executing command : LOGDATA
+4/5/2016 3:57:52 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:52 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 3:57:52 PM,Command parsed OK
+4/5/2016 3:57:53 PM,Executing command : LOGDATA
+4/5/2016 3:57:53 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:53 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:57:53 PM,Command parsed OK
+4/5/2016 3:57:53 PM,Executing command : LOGDATA
+4/5/2016 3:57:53 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:53 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:57:54 PM,Command parsed OK
+4/5/2016 3:57:54 PM,Executing command : LOGDATA
+4/5/2016 3:57:54 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:54 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:57:54 PM,Command parsed OK
+4/5/2016 3:57:54 PM,Executing command : LOGDATA
+4/5/2016 3:57:54 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:55 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:57:55 PM,Command parsed OK
+4/5/2016 3:57:55 PM,Executing command : LOGDATA
+4/5/2016 3:57:55 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:55 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:57:56 PM,Command parsed OK
+4/5/2016 3:57:56 PM,Executing command : LOGDATA
+4/5/2016 3:57:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:56 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:57:56 PM,Command parsed OK
+4/5/2016 3:57:56 PM,Executing command : LOGDATA
+4/5/2016 3:57:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:57 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:57:57 PM,Command parsed OK
+4/5/2016 3:57:57 PM,Executing command : LOGDATA
+4/5/2016 3:57:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:57 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:57:57 PM,Command parsed OK
+4/5/2016 3:57:58 PM,Executing command : LOGDATA
+4/5/2016 3:57:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:58 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:57:58 PM,Command parsed OK
+4/5/2016 3:57:58 PM,Executing command : LOGDATA
+4/5/2016 3:57:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:59 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:57:59 PM,Command parsed OK
+4/5/2016 3:57:59 PM,Executing command : LOGDATA
+4/5/2016 3:57:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:57:59 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:57:59 PM,Command parsed OK
+4/5/2016 3:57:59 PM,Executing command : LOGDATA
+4/5/2016 3:58:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:00 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:58:00 PM,Command parsed OK
+4/5/2016 3:58:00 PM,Executing command : LOGDATA
+4/5/2016 3:58:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:00 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:58:01 PM,Command parsed OK
+4/5/2016 3:58:01 PM,Executing command : LOGDATA
+4/5/2016 3:58:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:01 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 3:58:01 PM,Command parsed OK
+4/5/2016 3:58:01 PM,Executing command : LOGDATA
+4/5/2016 3:58:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:02 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:58:02 PM,Command parsed OK
+4/5/2016 3:58:02 PM,Executing command : LOGDATA
+4/5/2016 3:58:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:02 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:03 PM,Command parsed OK
+4/5/2016 3:58:03 PM,Executing command : LOGDATA
+4/5/2016 3:58:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:03 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:58:03 PM,Command parsed OK
+4/5/2016 3:58:03 PM,Executing command : LOGDATA
+4/5/2016 3:58:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:04 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:58:04 PM,Command parsed OK
+4/5/2016 3:58:04 PM,Executing command : LOGDATA
+4/5/2016 3:58:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:04 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:58:05 PM,Command parsed OK
+4/5/2016 3:58:05 PM,Executing command : LOGDATA
+4/5/2016 3:58:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:05 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:58:05 PM,Command parsed OK
+4/5/2016 3:58:05 PM,Executing command : LOGDATA
+4/5/2016 3:58:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:06 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 3:58:06 PM,Command parsed OK
+4/5/2016 3:58:06 PM,Executing command : LOGDATA
+4/5/2016 3:58:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:06 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 3:58:06 PM,Command parsed OK
+4/5/2016 3:58:07 PM,Executing command : LOGDATA
+4/5/2016 3:58:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:07 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 3:58:07 PM,Command parsed OK
+4/5/2016 3:58:07 PM,Executing command : LOGDATA
+4/5/2016 3:58:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:08 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:08 PM,Command parsed OK
+4/5/2016 3:58:08 PM,Executing command : LOGDATA
+4/5/2016 3:58:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:08 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:08 PM,Command parsed OK
+4/5/2016 3:58:09 PM,Executing command : LOGDATA
+4/5/2016 3:58:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:09 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:09 PM,Command parsed OK
+4/5/2016 3:58:09 PM,Executing command : LOGDATA
+4/5/2016 3:58:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:10 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:10 PM,Command parsed OK
+4/5/2016 3:58:10 PM,Executing command : LOGDATA
+4/5/2016 3:58:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:10 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:11 PM,Command parsed OK
+4/5/2016 3:58:11 PM,Executing command : LOGDATA
+4/5/2016 3:58:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:11 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:11 PM,Command parsed OK
+4/5/2016 3:58:11 PM,Executing command : LOGDATA
+4/5/2016 3:58:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:12 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:12 PM,Command parsed OK
+4/5/2016 3:58:12 PM,Executing command : LOGDATA
+4/5/2016 3:58:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:12 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:58:13 PM,Command parsed OK
+4/5/2016 3:58:13 PM,Executing command : LOGDATA
+4/5/2016 3:58:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:13 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:58:13 PM,Command parsed OK
+4/5/2016 3:58:14 PM,Executing command : LOGDATA
+4/5/2016 3:58:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:14 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:14 PM,Command parsed OK
+4/5/2016 3:58:14 PM,Executing command : LOGDATA
+4/5/2016 3:58:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:14 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:15 PM,Command parsed OK
+4/5/2016 3:58:15 PM,Executing command : LOGDATA
+4/5/2016 3:58:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:15 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:15 PM,Command parsed OK
+4/5/2016 3:58:16 PM,Executing command : LOGDATA
+4/5/2016 3:58:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:16 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:16 PM,Command parsed OK
+4/5/2016 3:58:16 PM,Executing command : LOGDATA
+4/5/2016 3:58:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:17 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:17 PM,Command parsed OK
+4/5/2016 3:58:17 PM,Executing command : LOGDATA
+4/5/2016 3:58:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:17 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:17 PM,Command parsed OK
+4/5/2016 3:58:18 PM,Executing command : LOGDATA
+4/5/2016 3:58:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:18 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:58:18 PM,Command parsed OK
+4/5/2016 3:58:18 PM,Executing command : LOGDATA
+4/5/2016 3:58:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:19 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:19 PM,Command parsed OK
+4/5/2016 3:58:19 PM,Executing command : LOGDATA
+4/5/2016 3:58:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:19 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:20 PM,Command parsed OK
+4/5/2016 3:58:20 PM,Executing command : LOGDATA
+4/5/2016 3:58:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:20 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:20 PM,Command parsed OK
+4/5/2016 3:58:20 PM,Executing command : LOGDATA
+4/5/2016 3:58:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:21 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 3:58:21 PM,Command parsed OK
+4/5/2016 3:58:21 PM,Executing command : LOGDATA
+4/5/2016 3:58:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:21 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:22 PM,Command parsed OK
+4/5/2016 3:58:22 PM,Executing command : LOGDATA
+4/5/2016 3:58:22 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:22 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:23 PM,Command parsed OK
+4/5/2016 3:58:23 PM,Executing command : LOGDATA
+4/5/2016 3:58:23 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:23 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:23 PM,Command parsed OK
+4/5/2016 3:58:23 PM,Executing command : LOGDATA
+4/5/2016 3:58:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:24 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:24 PM,Command parsed OK
+4/5/2016 3:58:24 PM,Executing command : LOGDATA
+4/5/2016 3:58:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:25 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:25 PM,Command parsed OK
+4/5/2016 3:58:25 PM,Executing command : LOGDATA
+4/5/2016 3:58:25 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:25 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:26 PM,Command parsed OK
+4/5/2016 3:58:26 PM,Executing command : LOGDATA
+4/5/2016 3:58:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:26 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:26 PM,Command parsed OK
+4/5/2016 3:58:26 PM,Executing command : LOGDATA
+4/5/2016 3:58:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:27 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:27 PM,Command parsed OK
+4/5/2016 3:58:27 PM,Executing command : LOGDATA
+4/5/2016 3:58:27 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:27 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:28 PM,Command parsed OK
+4/5/2016 3:58:28 PM,Executing command : LOGDATA
+4/5/2016 3:58:28 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:28 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:28 PM,Command parsed OK
+4/5/2016 3:58:29 PM,Executing command : LOGDATA
+4/5/2016 3:58:29 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:29 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:29 PM,Command parsed OK
+4/5/2016 3:58:29 PM,Executing command : LOGDATA
+4/5/2016 3:58:29 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:30 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:30 PM,Command parsed OK
+4/5/2016 3:58:30 PM,Executing command : LOGDATA
+4/5/2016 3:58:30 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:30 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:30 PM,Command parsed OK
+4/5/2016 3:58:31 PM,Executing command : LOGDATA
+4/5/2016 3:58:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:31 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:31 PM,Command parsed OK
+4/5/2016 3:58:31 PM,Executing command : LOGDATA
+4/5/2016 3:58:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:32 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:32 PM,Command parsed OK
+4/5/2016 3:58:32 PM,Executing command : LOGDATA
+4/5/2016 3:58:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:33 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:33 PM,Command parsed OK
+4/5/2016 3:58:33 PM,Executing command : LOGDATA
+4/5/2016 3:58:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:33 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:33 PM,Command parsed OK
+4/5/2016 3:58:34 PM,Executing command : LOGDATA
+4/5/2016 3:58:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:34 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:58:34 PM,Command parsed OK
+4/5/2016 3:58:34 PM,Executing command : LOGDATA
+4/5/2016 3:58:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:35 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:35 PM,Command parsed OK
+4/5/2016 3:58:35 PM,Executing command : LOGDATA
+4/5/2016 3:58:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:35 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 3:58:36 PM,Command parsed OK
+4/5/2016 3:58:36 PM,Executing command : LOGDATA
+4/5/2016 3:58:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:36 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:36 PM,Command parsed OK
+4/5/2016 3:58:37 PM,Executing command : LOGDATA
+4/5/2016 3:58:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:37 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:37 PM,Command parsed OK
+4/5/2016 3:58:37 PM,Executing command : LOGDATA
+4/5/2016 3:58:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:38 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:38 PM,Command parsed OK
+4/5/2016 3:58:38 PM,Executing command : LOGDATA
+4/5/2016 3:58:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:38 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:58:39 PM,Command parsed OK
+4/5/2016 3:58:39 PM,Executing command : LOGDATA
+4/5/2016 3:58:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:39 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:39 PM,Command parsed OK
+4/5/2016 3:58:40 PM,Executing command : LOGDATA
+4/5/2016 3:58:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:40 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:40 PM,Command parsed OK
+4/5/2016 3:58:40 PM,Executing command : LOGDATA
+4/5/2016 3:58:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:41 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 3:58:41 PM,Command parsed OK
+4/5/2016 3:58:41 PM,Executing command : LOGDATA
+4/5/2016 3:58:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:41 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 3:58:42 PM,Command parsed OK
+4/5/2016 3:58:42 PM,Executing command : LOGDATA
+4/5/2016 3:58:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:42 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:42 PM,Command parsed OK
+4/5/2016 3:58:43 PM,Executing command : LOGDATA
+4/5/2016 3:58:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:43 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:43 PM,Command parsed OK
+4/5/2016 3:58:43 PM,Executing command : LOGDATA
+4/5/2016 3:58:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:44 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:44 PM,Command parsed OK
+4/5/2016 3:58:44 PM,Executing command : LOGDATA
+4/5/2016 3:58:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:44 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:45 PM,Command parsed OK
+4/5/2016 3:58:45 PM,Executing command : LOGDATA
+4/5/2016 3:58:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:45 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:45 PM,Command parsed OK
+4/5/2016 3:58:46 PM,Executing command : LOGDATA
+4/5/2016 3:58:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:46 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:46 PM,Command parsed OK
+4/5/2016 3:58:47 PM,Executing command : LOGDATA
+4/5/2016 3:58:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:47 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:47 PM,Command parsed OK
+4/5/2016 3:58:47 PM,Executing command : LOGDATA
+4/5/2016 3:58:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:48 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:58:48 PM,Command parsed OK
+4/5/2016 3:58:48 PM,Executing command : LOGDATA
+4/5/2016 3:58:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:48 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:49 PM,Command parsed OK
+4/5/2016 3:58:49 PM,Executing command : LOGDATA
+4/5/2016 3:58:49 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:49 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:58:49 PM,Command parsed OK
+4/5/2016 3:58:50 PM,Executing command : LOGDATA
+4/5/2016 3:58:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:50 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:50 PM,Command parsed OK
+4/5/2016 3:58:50 PM,Executing command : LOGDATA
+4/5/2016 3:58:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:51 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:51 PM,Command parsed OK
+4/5/2016 3:58:51 PM,Executing command : LOGDATA
+4/5/2016 3:58:51 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:51 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:51 PM,Command parsed OK
+4/5/2016 3:58:51 PM,Executing command : LOGDATA
+4/5/2016 3:58:52 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:52 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:52 PM,Command parsed OK
+4/5/2016 3:58:52 PM,Executing command : LOGDATA
+4/5/2016 3:58:53 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:53 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:53 PM,Command parsed OK
+4/5/2016 3:58:53 PM,Executing command : LOGDATA
+4/5/2016 3:58:53 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:54 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:54 PM,Command parsed OK
+4/5/2016 3:58:54 PM,Executing command : LOGDATA
+4/5/2016 3:58:54 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:54 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:55 PM,Command parsed OK
+4/5/2016 3:58:55 PM,Executing command : LOGDATA
+4/5/2016 3:58:55 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:55 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 3:58:56 PM,Command parsed OK
+4/5/2016 3:58:56 PM,Executing command : LOGDATA
+4/5/2016 3:58:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:56 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:57 PM,Command parsed OK
+4/5/2016 3:58:57 PM,Executing command : LOGDATA
+4/5/2016 3:58:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:57 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:58 PM,Command parsed OK
+4/5/2016 3:58:58 PM,Executing command : LOGDATA
+4/5/2016 3:58:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:58 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:58:59 PM,Command parsed OK
+4/5/2016 3:58:59 PM,Executing command : LOGDATA
+4/5/2016 3:58:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:58:59 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:00 PM,Command parsed OK
+4/5/2016 3:59:00 PM,Executing command : LOGDATA
+4/5/2016 3:59:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:00 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:00 PM,Command parsed OK
+4/5/2016 3:59:01 PM,Executing command : LOGDATA
+4/5/2016 3:59:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:01 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:01 PM,Command parsed OK
+4/5/2016 3:59:02 PM,Executing command : LOGDATA
+4/5/2016 3:59:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:02 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:02 PM,Command parsed OK
+4/5/2016 3:59:02 PM,Executing command : LOGDATA
+4/5/2016 3:59:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:03 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:03 PM,Command parsed OK
+4/5/2016 3:59:03 PM,Executing command : LOGDATA
+4/5/2016 3:59:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:04 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:04 PM,Command parsed OK
+4/5/2016 3:59:04 PM,Executing command : LOGDATA
+4/5/2016 3:59:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:05 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:05 PM,Command parsed OK
+4/5/2016 3:59:05 PM,Executing command : LOGDATA
+4/5/2016 3:59:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:05 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:06 PM,Command parsed OK
+4/5/2016 3:59:06 PM,Executing command : LOGDATA
+4/5/2016 3:59:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:06 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:07 PM,Command parsed OK
+4/5/2016 3:59:07 PM,Executing command : LOGDATA
+4/5/2016 3:59:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:07 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:08 PM,Command parsed OK
+4/5/2016 3:59:08 PM,Executing command : LOGDATA
+4/5/2016 3:59:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:08 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:08 PM,Command parsed OK
+4/5/2016 3:59:09 PM,Executing command : LOGDATA
+4/5/2016 3:59:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:09 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:09 PM,Command parsed OK
+4/5/2016 3:59:09 PM,Executing command : LOGDATA
+4/5/2016 3:59:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:10 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:10 PM,Command parsed OK
+4/5/2016 3:59:10 PM,Executing command : LOGDATA
+4/5/2016 3:59:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:11 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:11 PM,Command parsed OK
+4/5/2016 3:59:11 PM,Executing command : LOGDATA
+4/5/2016 3:59:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:11 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:12 PM,Command parsed OK
+4/5/2016 3:59:12 PM,Executing command : LOGDATA
+4/5/2016 3:59:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:12 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:13 PM,Command parsed OK
+4/5/2016 3:59:13 PM,Executing command : LOGDATA
+4/5/2016 3:59:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:13 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:14 PM,Command parsed OK
+4/5/2016 3:59:14 PM,Executing command : LOGDATA
+4/5/2016 3:59:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:14 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 3:59:14 PM,Command parsed OK
+4/5/2016 3:59:15 PM,Executing command : LOGDATA
+4/5/2016 3:59:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:15 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:15 PM,Command parsed OK
+4/5/2016 3:59:16 PM,Executing command : LOGDATA
+4/5/2016 3:59:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:16 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:16 PM,Command parsed OK
+4/5/2016 3:59:17 PM,Executing command : LOGDATA
+4/5/2016 3:59:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:17 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:17 PM,Command parsed OK
+4/5/2016 3:59:17 PM,Executing command : LOGDATA
+4/5/2016 3:59:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:18 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 3:59:18 PM,Command parsed OK
+4/5/2016 3:59:18 PM,Executing command : LOGDATA
+4/5/2016 3:59:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:19 PM,Commandstring recieved : #S|LOGDATA|[310]#
+4/5/2016 3:59:19 PM,Command parsed OK
+4/5/2016 3:59:19 PM,Executing command : LOGDATA
+4/5/2016 3:59:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 3:59:20 PM,Commandstring recieved : #S|LOGDATA|[310]#
+4/5/2016 3:59:20 PM,Command parsed OK
+4/5/2016 3:59:20 PM,Executing command : LOGDATA
+4/5/2016 3:59:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:54 PM,Commandstring recieved : #S|LOGDATA|[310]#
+4/5/2016 4:00:54 PM,Command parsed OK
+4/5/2016 4:00:54 PM,Executing command : LOGDATA
+4/5/2016 4:00:54 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:54 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:00:54 PM,Command parsed OK
+4/5/2016 4:00:55 PM,Executing command : LOGDATA
+4/5/2016 4:00:55 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:55 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:00:55 PM,Command parsed OK
+4/5/2016 4:00:55 PM,Executing command : LOGDATA
+4/5/2016 4:00:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:56 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:00:56 PM,Command parsed OK
+4/5/2016 4:00:56 PM,Executing command : LOGDATA
+4/5/2016 4:00:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:56 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:00:57 PM,Command parsed OK
+4/5/2016 4:00:57 PM,Executing command : LOGDATA
+4/5/2016 4:00:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:57 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:00:57 PM,Command parsed OK
+4/5/2016 4:00:57 PM,Executing command : LOGDATA
+4/5/2016 4:00:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:58 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:00:58 PM,Command parsed OK
+4/5/2016 4:00:58 PM,Executing command : LOGDATA
+4/5/2016 4:00:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:59 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:00:59 PM,Command parsed OK
+4/5/2016 4:00:59 PM,Executing command : LOGDATA
+4/5/2016 4:00:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:00:59 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:00:59 PM,Command parsed OK
+4/5/2016 4:01:00 PM,Executing command : LOGDATA
+4/5/2016 4:01:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:00 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 4:01:00 PM,Command parsed OK
+4/5/2016 4:01:00 PM,Executing command : LOGDATA
+4/5/2016 4:01:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:01 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 4:01:01 PM,Command parsed OK
+4/5/2016 4:01:01 PM,Executing command : LOGDATA
+4/5/2016 4:01:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:01 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 4:01:02 PM,Command parsed OK
+4/5/2016 4:01:02 PM,Executing command : LOGDATA
+4/5/2016 4:01:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:02 PM,Commandstring recieved : #S|LOGDATA|[330]#
+4/5/2016 4:01:02 PM,Command parsed OK
+4/5/2016 4:01:02 PM,Executing command : LOGDATA
+4/5/2016 4:01:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:03 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 4:01:03 PM,Command parsed OK
+4/5/2016 4:01:03 PM,Executing command : LOGDATA
+4/5/2016 4:01:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:04 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 4:01:04 PM,Command parsed OK
+4/5/2016 4:01:04 PM,Executing command : LOGDATA
+4/5/2016 4:01:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:04 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 4:01:04 PM,Command parsed OK
+4/5/2016 4:01:05 PM,Executing command : LOGDATA
+4/5/2016 4:01:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:05 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 4:01:05 PM,Command parsed OK
+4/5/2016 4:01:05 PM,Executing command : LOGDATA
+4/5/2016 4:01:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:06 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 4:01:06 PM,Command parsed OK
+4/5/2016 4:01:06 PM,Executing command : LOGDATA
+4/5/2016 4:01:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:07 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 4:01:07 PM,Command parsed OK
+4/5/2016 4:01:07 PM,Executing command : LOGDATA
+4/5/2016 4:01:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:07 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 4:01:07 PM,Command parsed OK
+4/5/2016 4:01:08 PM,Executing command : LOGDATA
+4/5/2016 4:01:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:08 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 4:01:08 PM,Command parsed OK
+4/5/2016 4:01:08 PM,Executing command : LOGDATA
+4/5/2016 4:01:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:09 PM,Commandstring recieved : #S|LOGDATA|[339]#
+4/5/2016 4:01:09 PM,Command parsed OK
+4/5/2016 4:01:09 PM,Executing command : LOGDATA
+4/5/2016 4:01:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:09 PM,Commandstring recieved : #S|LOGDATA|[363]#
+4/5/2016 4:01:10 PM,Command parsed OK
+4/5/2016 4:01:10 PM,Executing command : LOGDATA
+4/5/2016 4:01:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:10 PM,Commandstring recieved : #S|LOGDATA|[368]#
+4/5/2016 4:01:10 PM,Command parsed OK
+4/5/2016 4:01:11 PM,Executing command : LOGDATA
+4/5/2016 4:01:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:11 PM,Commandstring recieved : #S|LOGDATA|[369]#
+4/5/2016 4:01:11 PM,Command parsed OK
+4/5/2016 4:01:11 PM,Executing command : LOGDATA
+4/5/2016 4:01:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:12 PM,Commandstring recieved : #S|LOGDATA|[374]#
+4/5/2016 4:01:12 PM,Command parsed OK
+4/5/2016 4:01:12 PM,Executing command : LOGDATA
+4/5/2016 4:01:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:12 PM,Commandstring recieved : #S|LOGDATA|[392]#
+4/5/2016 4:01:13 PM,Command parsed OK
+4/5/2016 4:01:13 PM,Executing command : LOGDATA
+4/5/2016 4:01:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:13 PM,Commandstring recieved : #S|LOGDATA|[392]#
+4/5/2016 4:01:13 PM,Command parsed OK
+4/5/2016 4:01:14 PM,Executing command : LOGDATA
+4/5/2016 4:01:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:14 PM,Commandstring recieved : #S|LOGDATA|[398]#
+4/5/2016 4:01:14 PM,Command parsed OK
+4/5/2016 4:01:14 PM,Executing command : LOGDATA
+4/5/2016 4:01:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:15 PM,Commandstring recieved : #S|LOGDATA|[416]#
+4/5/2016 4:01:15 PM,Command parsed OK
+4/5/2016 4:01:15 PM,Executing command : LOGDATA
+4/5/2016 4:01:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:15 PM,Commandstring recieved : #S|LOGDATA|[414]#
+4/5/2016 4:01:16 PM,Command parsed OK
+4/5/2016 4:01:16 PM,Executing command : LOGDATA
+4/5/2016 4:01:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:16 PM,Commandstring recieved : #S|LOGDATA|[404]#
+4/5/2016 4:01:16 PM,Command parsed OK
+4/5/2016 4:01:17 PM,Executing command : LOGDATA
+4/5/2016 4:01:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:17 PM,Commandstring recieved : #S|LOGDATA|[383]#
+4/5/2016 4:01:17 PM,Command parsed OK
+4/5/2016 4:01:17 PM,Executing command : LOGDATA
+4/5/2016 4:01:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:18 PM,Commandstring recieved : #S|LOGDATA|[374]#
+4/5/2016 4:01:18 PM,Command parsed OK
+4/5/2016 4:01:18 PM,Executing command : LOGDATA
+4/5/2016 4:01:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:18 PM,Commandstring recieved : #S|LOGDATA|[376]#
+4/5/2016 4:01:19 PM,Command parsed OK
+4/5/2016 4:01:19 PM,Executing command : LOGDATA
+4/5/2016 4:01:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:19 PM,Commandstring recieved : #S|LOGDATA|[373]#
+4/5/2016 4:01:19 PM,Command parsed OK
+4/5/2016 4:01:20 PM,Executing command : LOGDATA
+4/5/2016 4:01:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:20 PM,Commandstring recieved : #S|LOGDATA|[369]#
+4/5/2016 4:01:20 PM,Command parsed OK
+4/5/2016 4:01:20 PM,Executing command : LOGDATA
+4/5/2016 4:01:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:21 PM,Commandstring recieved : #S|LOGDATA|[386]#
+4/5/2016 4:01:21 PM,Command parsed OK
+4/5/2016 4:01:21 PM,Executing command : LOGDATA
+4/5/2016 4:01:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:21 PM,Commandstring recieved : #S|LOGDATA|[379]#
+4/5/2016 4:01:22 PM,Command parsed OK
+4/5/2016 4:01:22 PM,Executing command : LOGDATA
+4/5/2016 4:01:22 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:22 PM,Commandstring recieved : #S|LOGDATA|[361]#
+4/5/2016 4:01:22 PM,Command parsed OK
+4/5/2016 4:01:23 PM,Executing command : LOGDATA
+4/5/2016 4:01:23 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:23 PM,Commandstring recieved : #S|LOGDATA|[363]#
+4/5/2016 4:01:23 PM,Command parsed OK
+4/5/2016 4:01:23 PM,Executing command : LOGDATA
+4/5/2016 4:01:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:24 PM,Commandstring recieved : #S|LOGDATA|[362]#
+4/5/2016 4:01:24 PM,Command parsed OK
+4/5/2016 4:01:24 PM,Executing command : LOGDATA
+4/5/2016 4:01:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:24 PM,Commandstring recieved : #S|LOGDATA|[355]#
+4/5/2016 4:01:25 PM,Command parsed OK
+4/5/2016 4:01:25 PM,Executing command : LOGDATA
+4/5/2016 4:01:25 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:25 PM,Commandstring recieved : #S|LOGDATA|[357]#
+4/5/2016 4:01:25 PM,Command parsed OK
+4/5/2016 4:01:26 PM,Executing command : LOGDATA
+4/5/2016 4:01:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:26 PM,Commandstring recieved : #S|LOGDATA|[372]#
+4/5/2016 4:01:26 PM,Command parsed OK
+4/5/2016 4:01:26 PM,Executing command : LOGDATA
+4/5/2016 4:01:27 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:27 PM,Commandstring recieved : #S|LOGDATA|[369]#
+4/5/2016 4:01:27 PM,Command parsed OK
+4/5/2016 4:01:27 PM,Executing command : LOGDATA
+4/5/2016 4:01:27 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:28 PM,Commandstring recieved : #S|LOGDATA|[350]#
+4/5/2016 4:01:28 PM,Command parsed OK
+4/5/2016 4:01:28 PM,Executing command : LOGDATA
+4/5/2016 4:01:28 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:28 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 4:01:28 PM,Command parsed OK
+4/5/2016 4:01:29 PM,Executing command : LOGDATA
+4/5/2016 4:01:29 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:29 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 4:01:29 PM,Command parsed OK
+4/5/2016 4:01:29 PM,Executing command : LOGDATA
+4/5/2016 4:01:30 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:30 PM,Commandstring recieved : #S|LOGDATA|[339]#
+4/5/2016 4:01:30 PM,Command parsed OK
+4/5/2016 4:01:30 PM,Executing command : LOGDATA
+4/5/2016 4:01:30 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:31 PM,Commandstring recieved : #S|LOGDATA|[338]#
+4/5/2016 4:01:31 PM,Command parsed OK
+4/5/2016 4:01:31 PM,Executing command : LOGDATA
+4/5/2016 4:01:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:31 PM,Commandstring recieved : #S|LOGDATA|[340]#
+4/5/2016 4:01:32 PM,Command parsed OK
+4/5/2016 4:01:32 PM,Executing command : LOGDATA
+4/5/2016 4:01:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:32 PM,Commandstring recieved : #S|LOGDATA|[347]#
+4/5/2016 4:01:32 PM,Command parsed OK
+4/5/2016 4:01:33 PM,Executing command : LOGDATA
+4/5/2016 4:01:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:33 PM,Commandstring recieved : #S|LOGDATA|[344]#
+4/5/2016 4:01:33 PM,Command parsed OK
+4/5/2016 4:01:33 PM,Executing command : LOGDATA
+4/5/2016 4:01:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:34 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 4:01:34 PM,Command parsed OK
+4/5/2016 4:01:34 PM,Executing command : LOGDATA
+4/5/2016 4:01:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:35 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 4:01:35 PM,Command parsed OK
+4/5/2016 4:01:35 PM,Executing command : LOGDATA
+4/5/2016 4:01:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:35 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 4:01:35 PM,Command parsed OK
+4/5/2016 4:01:36 PM,Executing command : LOGDATA
+4/5/2016 4:01:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:36 PM,Commandstring recieved : #S|LOGDATA|[332]#
+4/5/2016 4:01:36 PM,Command parsed OK
+4/5/2016 4:01:36 PM,Executing command : LOGDATA
+4/5/2016 4:01:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:37 PM,Commandstring recieved : #S|LOGDATA|[332]#
+4/5/2016 4:01:37 PM,Command parsed OK
+4/5/2016 4:01:37 PM,Executing command : LOGDATA
+4/5/2016 4:01:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:38 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 4:01:38 PM,Command parsed OK
+4/5/2016 4:01:38 PM,Executing command : LOGDATA
+4/5/2016 4:01:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:38 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 4:01:39 PM,Command parsed OK
+4/5/2016 4:01:39 PM,Executing command : LOGDATA
+4/5/2016 4:01:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:39 PM,Commandstring recieved : #S|LOGDATA|[331]#
+4/5/2016 4:01:39 PM,Command parsed OK
+4/5/2016 4:01:40 PM,Executing command : LOGDATA
+4/5/2016 4:01:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:40 PM,Commandstring recieved : #S|LOGDATA|[334]#
+4/5/2016 4:01:40 PM,Command parsed OK
+4/5/2016 4:01:40 PM,Executing command : LOGDATA
+4/5/2016 4:01:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:41 PM,Commandstring recieved : #S|LOGDATA|[339]#
+4/5/2016 4:01:41 PM,Command parsed OK
+4/5/2016 4:01:41 PM,Executing command : LOGDATA
+4/5/2016 4:01:41 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:42 PM,Commandstring recieved : #S|LOGDATA|[337]#
+4/5/2016 4:01:42 PM,Command parsed OK
+4/5/2016 4:01:42 PM,Executing command : LOGDATA
+4/5/2016 4:01:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:42 PM,Commandstring recieved : #S|LOGDATA|[331]#
+4/5/2016 4:01:43 PM,Command parsed OK
+4/5/2016 4:01:43 PM,Executing command : LOGDATA
+4/5/2016 4:01:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:43 PM,Commandstring recieved : #S|LOGDATA|[332]#
+4/5/2016 4:01:44 PM,Command parsed OK
+4/5/2016 4:01:44 PM,Executing command : LOGDATA
+4/5/2016 4:01:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:44 PM,Commandstring recieved : #S|LOGDATA|[335]#
+4/5/2016 4:01:44 PM,Command parsed OK
+4/5/2016 4:01:45 PM,Executing command : LOGDATA
+4/5/2016 4:01:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:45 PM,Commandstring recieved : #S|LOGDATA|[342]#
+4/5/2016 4:01:45 PM,Command parsed OK
+4/5/2016 4:01:45 PM,Executing command : LOGDATA
+4/5/2016 4:01:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:46 PM,Commandstring recieved : #S|LOGDATA|[347]#
+4/5/2016 4:01:46 PM,Command parsed OK
+4/5/2016 4:01:46 PM,Executing command : LOGDATA
+4/5/2016 4:01:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:47 PM,Commandstring recieved : #S|LOGDATA|[347]#
+4/5/2016 4:01:47 PM,Command parsed OK
+4/5/2016 4:01:47 PM,Executing command : LOGDATA
+4/5/2016 4:01:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:47 PM,Commandstring recieved : #S|LOGDATA|[346]#
+4/5/2016 4:01:48 PM,Command parsed OK
+4/5/2016 4:01:48 PM,Executing command : LOGDATA
+4/5/2016 4:01:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:48 PM,Commandstring recieved : #S|LOGDATA|[336]#
+4/5/2016 4:01:48 PM,Command parsed OK
+4/5/2016 4:01:49 PM,Executing command : LOGDATA
+4/5/2016 4:01:49 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:49 PM,Commandstring recieved : #S|LOGDATA|[332]#
+4/5/2016 4:01:49 PM,Command parsed OK
+4/5/2016 4:01:49 PM,Executing command : LOGDATA
+4/5/2016 4:01:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:50 PM,Commandstring recieved : #S|LOGDATA|[332]#
+4/5/2016 4:01:50 PM,Command parsed OK
+4/5/2016 4:01:50 PM,Executing command : LOGDATA
+4/5/2016 4:01:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:51 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 4:01:51 PM,Command parsed OK
+4/5/2016 4:01:51 PM,Executing command : LOGDATA
+4/5/2016 4:01:51 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:52 PM,Commandstring recieved : #S|LOGDATA|[339]#
+4/5/2016 4:01:52 PM,Command parsed OK
+4/5/2016 4:01:52 PM,Executing command : LOGDATA
+4/5/2016 4:01:52 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:52 PM,Commandstring recieved : #S|LOGDATA|[340]#
+4/5/2016 4:01:53 PM,Command parsed OK
+4/5/2016 4:01:53 PM,Executing command : LOGDATA
+4/5/2016 4:01:53 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:53 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 4:01:53 PM,Command parsed OK
+4/5/2016 4:01:54 PM,Executing command : LOGDATA
+4/5/2016 4:01:54 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:54 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 4:01:54 PM,Command parsed OK
+4/5/2016 4:01:54 PM,Executing command : LOGDATA
+4/5/2016 4:01:55 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:55 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 4:01:55 PM,Command parsed OK
+4/5/2016 4:01:55 PM,Executing command : LOGDATA
+4/5/2016 4:01:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:56 PM,Commandstring recieved : #S|LOGDATA|[327]#
+4/5/2016 4:01:56 PM,Command parsed OK
+4/5/2016 4:01:56 PM,Executing command : LOGDATA
+4/5/2016 4:01:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:57 PM,Commandstring recieved : #S|LOGDATA|[331]#
+4/5/2016 4:01:57 PM,Command parsed OK
+4/5/2016 4:01:57 PM,Executing command : LOGDATA
+4/5/2016 4:01:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:57 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 4:01:58 PM,Command parsed OK
+4/5/2016 4:01:58 PM,Executing command : LOGDATA
+4/5/2016 4:01:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:58 PM,Commandstring recieved : #S|LOGDATA|[333]#
+4/5/2016 4:01:58 PM,Command parsed OK
+4/5/2016 4:01:59 PM,Executing command : LOGDATA
+4/5/2016 4:01:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:01:59 PM,Commandstring recieved : #S|LOGDATA|[335]#
+4/5/2016 4:01:59 PM,Command parsed OK
+4/5/2016 4:01:59 PM,Executing command : LOGDATA
+4/5/2016 4:02:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:00 PM,Commandstring recieved : #S|LOGDATA|[328]#
+4/5/2016 4:02:00 PM,Command parsed OK
+4/5/2016 4:02:00 PM,Executing command : LOGDATA
+4/5/2016 4:02:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:01 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 4:02:01 PM,Command parsed OK
+4/5/2016 4:02:01 PM,Executing command : LOGDATA
+4/5/2016 4:02:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:02 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 4:02:02 PM,Command parsed OK
+4/5/2016 4:02:02 PM,Executing command : LOGDATA
+4/5/2016 4:02:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:02 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 4:02:03 PM,Command parsed OK
+4/5/2016 4:02:03 PM,Executing command : LOGDATA
+4/5/2016 4:02:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:03 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 4:02:03 PM,Command parsed OK
+4/5/2016 4:02:04 PM,Executing command : LOGDATA
+4/5/2016 4:02:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:04 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 4:02:04 PM,Command parsed OK
+4/5/2016 4:02:05 PM,Executing command : LOGDATA
+4/5/2016 4:02:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:05 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 4:02:05 PM,Command parsed OK
+4/5/2016 4:02:05 PM,Executing command : LOGDATA
+4/5/2016 4:02:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:06 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 4:02:06 PM,Command parsed OK
+4/5/2016 4:02:06 PM,Executing command : LOGDATA
+4/5/2016 4:02:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:07 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 4:02:07 PM,Command parsed OK
+4/5/2016 4:02:07 PM,Executing command : LOGDATA
+4/5/2016 4:02:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:08 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 4:02:08 PM,Command parsed OK
+4/5/2016 4:02:08 PM,Executing command : LOGDATA
+4/5/2016 4:02:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:08 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 4:02:09 PM,Command parsed OK
+4/5/2016 4:02:09 PM,Executing command : LOGDATA
+4/5/2016 4:02:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:09 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 4:02:09 PM,Command parsed OK
+4/5/2016 4:02:10 PM,Executing command : LOGDATA
+4/5/2016 4:02:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:10 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 4:02:10 PM,Command parsed OK
+4/5/2016 4:02:11 PM,Executing command : LOGDATA
+4/5/2016 4:02:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:11 PM,Commandstring recieved : #S|LOGDATA|[328]#
+4/5/2016 4:02:11 PM,Command parsed OK
+4/5/2016 4:02:11 PM,Executing command : LOGDATA
+4/5/2016 4:02:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:12 PM,Commandstring recieved : #S|LOGDATA|[329]#
+4/5/2016 4:02:12 PM,Command parsed OK
+4/5/2016 4:02:12 PM,Executing command : LOGDATA
+4/5/2016 4:02:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:13 PM,Commandstring recieved : #S|LOGDATA|[328]#
+4/5/2016 4:02:13 PM,Command parsed OK
+4/5/2016 4:02:13 PM,Executing command : LOGDATA
+4/5/2016 4:02:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:14 PM,Commandstring recieved : #S|LOGDATA|[325]#
+4/5/2016 4:02:14 PM,Command parsed OK
+4/5/2016 4:02:14 PM,Executing command : LOGDATA
+4/5/2016 4:02:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:15 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 4:02:15 PM,Command parsed OK
+4/5/2016 4:02:15 PM,Executing command : LOGDATA
+4/5/2016 4:02:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:15 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 4:02:16 PM,Command parsed OK
+4/5/2016 4:02:16 PM,Executing command : LOGDATA
+4/5/2016 4:02:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:16 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 4:02:17 PM,Command parsed OK
+4/5/2016 4:02:17 PM,Executing command : LOGDATA
+4/5/2016 4:02:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:17 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 4:02:17 PM,Command parsed OK
+4/5/2016 4:02:18 PM,Executing command : LOGDATA
+4/5/2016 4:02:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:18 PM,Commandstring recieved : #S|LOGDATA|[328]#
+4/5/2016 4:02:18 PM,Command parsed OK
+4/5/2016 4:02:18 PM,Executing command : LOGDATA
+4/5/2016 4:02:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:19 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 4:02:19 PM,Command parsed OK
+4/5/2016 4:02:19 PM,Executing command : LOGDATA
+4/5/2016 4:02:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:20 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 4:02:20 PM,Command parsed OK
+4/5/2016 4:02:20 PM,Executing command : LOGDATA
+4/5/2016 4:02:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:21 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 4:02:21 PM,Command parsed OK
+4/5/2016 4:02:21 PM,Executing command : LOGDATA
+4/5/2016 4:02:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:22 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 4:02:22 PM,Command parsed OK
+4/5/2016 4:02:22 PM,Executing command : LOGDATA
+4/5/2016 4:02:22 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:23 PM,Commandstring recieved : #S|LOGDATA|[322]#
+4/5/2016 4:02:23 PM,Command parsed OK
+4/5/2016 4:02:23 PM,Executing command : LOGDATA
+4/5/2016 4:02:23 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:23 PM,Commandstring recieved : #S|LOGDATA|[324]#
+4/5/2016 4:02:24 PM,Command parsed OK
+4/5/2016 4:02:24 PM,Executing command : LOGDATA
+4/5/2016 4:02:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:24 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 4:02:24 PM,Command parsed OK
+4/5/2016 4:02:25 PM,Executing command : LOGDATA
+4/5/2016 4:02:25 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:25 PM,Commandstring recieved : #S|LOGDATA|[326]#
+4/5/2016 4:02:25 PM,Command parsed OK
+4/5/2016 4:02:26 PM,Executing command : LOGDATA
+4/5/2016 4:02:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:26 PM,Commandstring recieved : #S|LOGDATA|[323]#
+4/5/2016 4:02:26 PM,Command parsed OK
+4/5/2016 4:02:26 PM,Executing command : LOGDATA
+4/5/2016 4:02:27 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:27 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 4:02:27 PM,Command parsed OK
+4/5/2016 4:02:27 PM,Executing command : LOGDATA
+4/5/2016 4:02:28 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:28 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 4:02:28 PM,Command parsed OK
+4/5/2016 4:02:28 PM,Executing command : LOGDATA
+4/5/2016 4:02:28 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:29 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 4:02:29 PM,Command parsed OK
+4/5/2016 4:02:29 PM,Executing command : LOGDATA
+4/5/2016 4:02:29 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:30 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 4:02:30 PM,Command parsed OK
+4/5/2016 4:02:30 PM,Executing command : LOGDATA
+4/5/2016 4:02:30 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:30 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 4:02:31 PM,Command parsed OK
+4/5/2016 4:02:31 PM,Executing command : LOGDATA
+4/5/2016 4:02:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:31 PM,Commandstring recieved : #S|LOGDATA|[321]#
+4/5/2016 4:02:32 PM,Command parsed OK
+4/5/2016 4:02:32 PM,Executing command : LOGDATA
+4/5/2016 4:02:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:32 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 4:02:33 PM,Command parsed OK
+4/5/2016 4:02:33 PM,Executing command : LOGDATA
+4/5/2016 4:02:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:33 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 4:02:34 PM,Command parsed OK
+4/5/2016 4:02:34 PM,Executing command : LOGDATA
+4/5/2016 4:02:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:35 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:35 PM,Command parsed OK
+4/5/2016 4:02:35 PM,Executing command : LOGDATA
+4/5/2016 4:02:35 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:36 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:02:36 PM,Command parsed OK
+4/5/2016 4:02:36 PM,Executing command : LOGDATA
+4/5/2016 4:02:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:37 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:02:37 PM,Command parsed OK
+4/5/2016 4:02:38 PM,Executing command : LOGDATA
+4/5/2016 4:02:38 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:38 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:02:38 PM,Command parsed OK
+4/5/2016 4:02:39 PM,Executing command : LOGDATA
+4/5/2016 4:02:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:39 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:40 PM,Command parsed OK
+4/5/2016 4:02:40 PM,Executing command : LOGDATA
+4/5/2016 4:02:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:41 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 4:02:41 PM,Command parsed OK
+4/5/2016 4:02:41 PM,Executing command : LOGDATA
+4/5/2016 4:02:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:42 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 4:02:42 PM,Command parsed OK
+4/5/2016 4:02:43 PM,Executing command : LOGDATA
+4/5/2016 4:02:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:44 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:02:44 PM,Command parsed OK
+4/5/2016 4:02:44 PM,Executing command : LOGDATA
+4/5/2016 4:02:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:45 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:02:45 PM,Command parsed OK
+4/5/2016 4:02:46 PM,Executing command : LOGDATA
+4/5/2016 4:02:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:46 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:47 PM,Command parsed OK
+4/5/2016 4:02:47 PM,Executing command : LOGDATA
+4/5/2016 4:02:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:48 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:48 PM,Command parsed OK
+4/5/2016 4:02:48 PM,Executing command : LOGDATA
+4/5/2016 4:02:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:49 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:49 PM,Command parsed OK
+4/5/2016 4:02:49 PM,Executing command : LOGDATA
+4/5/2016 4:02:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:50 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:02:50 PM,Command parsed OK
+4/5/2016 4:02:50 PM,Executing command : LOGDATA
+4/5/2016 4:02:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:51 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 4:02:51 PM,Command parsed OK
+4/5/2016 4:02:51 PM,Executing command : LOGDATA
+4/5/2016 4:02:51 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:52 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 4:02:52 PM,Command parsed OK
+4/5/2016 4:02:52 PM,Executing command : LOGDATA
+4/5/2016 4:02:52 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:53 PM,Commandstring recieved : #S|LOGDATA|[318]#
+4/5/2016 4:02:53 PM,Command parsed OK
+4/5/2016 4:02:53 PM,Executing command : LOGDATA
+4/5/2016 4:02:53 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:54 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:54 PM,Command parsed OK
+4/5/2016 4:02:54 PM,Executing command : LOGDATA
+4/5/2016 4:02:54 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:55 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:55 PM,Command parsed OK
+4/5/2016 4:02:55 PM,Executing command : LOGDATA
+4/5/2016 4:02:55 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:56 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:02:56 PM,Command parsed OK
+4/5/2016 4:02:56 PM,Executing command : LOGDATA
+4/5/2016 4:02:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:57 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:02:57 PM,Command parsed OK
+4/5/2016 4:02:57 PM,Executing command : LOGDATA
+4/5/2016 4:02:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:58 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 4:02:58 PM,Command parsed OK
+4/5/2016 4:02:58 PM,Executing command : LOGDATA
+4/5/2016 4:02:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:59 PM,Commandstring recieved : #S|LOGDATA|[320]#
+4/5/2016 4:02:59 PM,Command parsed OK
+4/5/2016 4:02:59 PM,Executing command : LOGDATA
+4/5/2016 4:02:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:02:59 PM,Commandstring recieved : #S|LOGDATA|[319]#
+4/5/2016 4:03:00 PM,Command parsed OK
+4/5/2016 4:03:00 PM,Executing command : LOGDATA
+4/5/2016 4:03:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:00 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:03:01 PM,Command parsed OK
+4/5/2016 4:03:01 PM,Executing command : LOGDATA
+4/5/2016 4:03:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:01 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:02 PM,Command parsed OK
+4/5/2016 4:03:02 PM,Executing command : LOGDATA
+4/5/2016 4:03:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:02 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:03 PM,Command parsed OK
+4/5/2016 4:03:03 PM,Executing command : LOGDATA
+4/5/2016 4:03:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:03 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:04 PM,Command parsed OK
+4/5/2016 4:03:04 PM,Executing command : LOGDATA
+4/5/2016 4:03:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:05 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:03:05 PM,Command parsed OK
+4/5/2016 4:03:05 PM,Executing command : LOGDATA
+4/5/2016 4:03:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:05 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:03:06 PM,Command parsed OK
+4/5/2016 4:03:06 PM,Executing command : LOGDATA
+4/5/2016 4:03:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:06 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:03:07 PM,Command parsed OK
+4/5/2016 4:03:07 PM,Executing command : LOGDATA
+4/5/2016 4:03:07 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:07 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:08 PM,Command parsed OK
+4/5/2016 4:03:08 PM,Executing command : LOGDATA
+4/5/2016 4:03:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:08 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 4:03:09 PM,Command parsed OK
+4/5/2016 4:03:09 PM,Executing command : LOGDATA
+4/5/2016 4:03:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:09 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 4:03:10 PM,Command parsed OK
+4/5/2016 4:03:10 PM,Executing command : LOGDATA
+4/5/2016 4:03:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:10 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:11 PM,Command parsed OK
+4/5/2016 4:03:11 PM,Executing command : LOGDATA
+4/5/2016 4:03:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:11 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:11 PM,Command parsed OK
+4/5/2016 4:03:12 PM,Executing command : LOGDATA
+4/5/2016 4:03:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:12 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:03:12 PM,Command parsed OK
+4/5/2016 4:03:13 PM,Executing command : LOGDATA
+4/5/2016 4:03:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:13 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:14 PM,Command parsed OK
+4/5/2016 4:03:14 PM,Executing command : LOGDATA
+4/5/2016 4:03:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:14 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:14 PM,Command parsed OK
+4/5/2016 4:03:15 PM,Executing command : LOGDATA
+4/5/2016 4:03:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:15 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:15 PM,Command parsed OK
+4/5/2016 4:03:16 PM,Executing command : LOGDATA
+4/5/2016 4:03:16 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:16 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:16 PM,Command parsed OK
+4/5/2016 4:03:17 PM,Executing command : LOGDATA
+4/5/2016 4:03:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:17 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:17 PM,Command parsed OK
+4/5/2016 4:03:18 PM,Executing command : LOGDATA
+4/5/2016 4:03:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:18 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:18 PM,Command parsed OK
+4/5/2016 4:03:19 PM,Executing command : LOGDATA
+4/5/2016 4:03:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:19 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:19 PM,Command parsed OK
+4/5/2016 4:03:20 PM,Executing command : LOGDATA
+4/5/2016 4:03:20 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:20 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:20 PM,Command parsed OK
+4/5/2016 4:03:21 PM,Executing command : LOGDATA
+4/5/2016 4:03:21 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:21 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:21 PM,Command parsed OK
+4/5/2016 4:03:22 PM,Executing command : LOGDATA
+4/5/2016 4:03:22 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:22 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 4:03:22 PM,Command parsed OK
+4/5/2016 4:03:23 PM,Executing command : LOGDATA
+4/5/2016 4:03:23 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:23 PM,Commandstring recieved : #S|LOGDATA|[314]#
+4/5/2016 4:03:23 PM,Command parsed OK
+4/5/2016 4:03:24 PM,Executing command : LOGDATA
+4/5/2016 4:03:24 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:24 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:24 PM,Command parsed OK
+4/5/2016 4:03:25 PM,Executing command : LOGDATA
+4/5/2016 4:03:25 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:25 PM,Commandstring recieved : #S|LOGDATA|[317]#
+4/5/2016 4:03:25 PM,Command parsed OK
+4/5/2016 4:03:26 PM,Executing command : LOGDATA
+4/5/2016 4:03:26 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:26 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:27 PM,Command parsed OK
+4/5/2016 4:03:27 PM,Executing command : LOGDATA
+4/5/2016 4:03:27 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:28 PM,Commandstring recieved : #S|LOGDATA|[316]#
+4/5/2016 4:03:28 PM,Command parsed OK
+4/5/2016 4:03:28 PM,Executing command : LOGDATA
+4/5/2016 4:03:29 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:29 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:29 PM,Command parsed OK
+4/5/2016 4:03:30 PM,Executing command : LOGDATA
+4/5/2016 4:03:30 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:30 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:30 PM,Command parsed OK
+4/5/2016 4:03:31 PM,Executing command : LOGDATA
+4/5/2016 4:03:31 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:31 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:31 PM,Command parsed OK
+4/5/2016 4:03:32 PM,Executing command : LOGDATA
+4/5/2016 4:03:32 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:32 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:33 PM,Command parsed OK
+4/5/2016 4:03:33 PM,Executing command : LOGDATA
+4/5/2016 4:03:33 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:33 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:34 PM,Command parsed OK
+4/5/2016 4:03:34 PM,Executing command : LOGDATA
+4/5/2016 4:03:34 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:35 PM,Commandstring recieved : #S|LOGDATA|[315]#
+4/5/2016 4:03:35 PM,Command parsed OK
+4/5/2016 4:03:36 PM,Executing command : LOGDATA
+4/5/2016 4:03:36 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:36 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:03:37 PM,Command parsed OK
+4/5/2016 4:03:37 PM,Executing command : LOGDATA
+4/5/2016 4:03:37 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:38 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:38 PM,Command parsed OK
+4/5/2016 4:03:39 PM,Executing command : LOGDATA
+4/5/2016 4:03:39 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:39 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:40 PM,Command parsed OK
+4/5/2016 4:03:40 PM,Executing command : LOGDATA
+4/5/2016 4:03:40 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:41 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:41 PM,Command parsed OK
+4/5/2016 4:03:41 PM,Executing command : LOGDATA
+4/5/2016 4:03:42 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:42 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:03:43 PM,Command parsed OK
+4/5/2016 4:03:43 PM,Executing command : LOGDATA
+4/5/2016 4:03:43 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:44 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:44 PM,Command parsed OK
+4/5/2016 4:03:44 PM,Executing command : LOGDATA
+4/5/2016 4:03:44 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:45 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:45 PM,Command parsed OK
+4/5/2016 4:03:45 PM,Executing command : LOGDATA
+4/5/2016 4:03:45 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:46 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:46 PM,Command parsed OK
+4/5/2016 4:03:46 PM,Executing command : LOGDATA
+4/5/2016 4:03:46 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:47 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:47 PM,Command parsed OK
+4/5/2016 4:03:47 PM,Executing command : LOGDATA
+4/5/2016 4:03:47 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:48 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:48 PM,Command parsed OK
+4/5/2016 4:03:48 PM,Executing command : LOGDATA
+4/5/2016 4:03:48 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:49 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:03:49 PM,Command parsed OK
+4/5/2016 4:03:49 PM,Executing command : LOGDATA
+4/5/2016 4:03:50 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:50 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:50 PM,Command parsed OK
+4/5/2016 4:03:50 PM,Executing command : LOGDATA
+4/5/2016 4:03:51 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:51 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:51 PM,Command parsed OK
+4/5/2016 4:03:51 PM,Executing command : LOGDATA
+4/5/2016 4:03:52 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:52 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:03:52 PM,Command parsed OK
+4/5/2016 4:03:52 PM,Executing command : LOGDATA
+4/5/2016 4:03:53 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:53 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:53 PM,Command parsed OK
+4/5/2016 4:03:54 PM,Executing command : LOGDATA
+4/5/2016 4:03:54 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:54 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:03:54 PM,Command parsed OK
+4/5/2016 4:03:55 PM,Executing command : LOGDATA
+4/5/2016 4:03:55 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:55 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:03:55 PM,Command parsed OK
+4/5/2016 4:03:56 PM,Executing command : LOGDATA
+4/5/2016 4:03:56 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:56 PM,Commandstring recieved : #S|LOGDATA|[313]#
+4/5/2016 4:03:56 PM,Command parsed OK
+4/5/2016 4:03:57 PM,Executing command : LOGDATA
+4/5/2016 4:03:57 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:57 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:57 PM,Command parsed OK
+4/5/2016 4:03:58 PM,Executing command : LOGDATA
+4/5/2016 4:03:58 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:58 PM,Commandstring recieved : #S|LOGDATA|[312]#
+4/5/2016 4:03:59 PM,Command parsed OK
+4/5/2016 4:03:59 PM,Executing command : LOGDATA
+4/5/2016 4:03:59 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:03:59 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:00 PM,Command parsed OK
+4/5/2016 4:04:00 PM,Executing command : LOGDATA
+4/5/2016 4:04:00 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:00 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:01 PM,Command parsed OK
+4/5/2016 4:04:01 PM,Executing command : LOGDATA
+4/5/2016 4:04:01 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:01 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:02 PM,Command parsed OK
+4/5/2016 4:04:02 PM,Executing command : LOGDATA
+4/5/2016 4:04:02 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:02 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:03 PM,Command parsed OK
+4/5/2016 4:04:03 PM,Executing command : LOGDATA
+4/5/2016 4:04:03 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:04 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:04 PM,Command parsed OK
+4/5/2016 4:04:04 PM,Executing command : LOGDATA
+4/5/2016 4:04:04 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:05 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:05 PM,Command parsed OK
+4/5/2016 4:04:05 PM,Executing command : LOGDATA
+4/5/2016 4:04:05 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:06 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:06 PM,Command parsed OK
+4/5/2016 4:04:06 PM,Executing command : LOGDATA
+4/5/2016 4:04:06 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:07 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:07 PM,Command parsed OK
+4/5/2016 4:04:07 PM,Executing command : LOGDATA
+4/5/2016 4:04:08 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:08 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:08 PM,Command parsed OK
+4/5/2016 4:04:09 PM,Executing command : LOGDATA
+4/5/2016 4:04:09 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:09 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:09 PM,Command parsed OK
+4/5/2016 4:04:10 PM,Executing command : LOGDATA
+4/5/2016 4:04:10 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:10 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:11 PM,Command parsed OK
+4/5/2016 4:04:11 PM,Executing command : LOGDATA
+4/5/2016 4:04:11 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:11 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:12 PM,Command parsed OK
+4/5/2016 4:04:12 PM,Executing command : LOGDATA
+4/5/2016 4:04:12 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:12 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:13 PM,Command parsed OK
+4/5/2016 4:04:13 PM,Executing command : LOGDATA
+4/5/2016 4:04:13 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:14 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:14 PM,Command parsed OK
+4/5/2016 4:04:14 PM,Executing command : LOGDATA
+4/5/2016 4:04:14 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:15 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:15 PM,Command parsed OK
+4/5/2016 4:04:15 PM,Executing command : LOGDATA
+4/5/2016 4:04:15 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:16 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:16 PM,Command parsed OK
+4/5/2016 4:04:16 PM,Executing command : LOGDATA
+4/5/2016 4:04:17 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:17 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:17 PM,Command parsed OK
+4/5/2016 4:04:17 PM,Executing command : LOGDATA
+4/5/2016 4:04:18 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt
+4/5/2016 4:04:18 PM,Commandstring recieved : #S|LOGDATA|[311]#
+4/5/2016 4:04:18 PM,Command parsed OK
+4/5/2016 4:04:18 PM,Executing command : LOGDATA
+4/5/2016 4:04:19 PM,Data logged to C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt

@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(mainWindow));
             this.chartAcceleration = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.timer = new System.Windows.Forms.Timer(this.components);
@@ -43,20 +43,24 @@
             this.consoleWindow = new System.Windows.Forms.TextBox();
             this.position = new System.Windows.Forms.Label();
             this.accelText = new System.Windows.Forms.TextBox();
+            this.dataPointsText = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.outputFilenameText = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.chartAcceleration)).BeginInit();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // chartAcceleration
             // 
-            chartArea2.Name = "ChartArea1";
-            this.chartAcceleration.ChartAreas.Add(chartArea2);
+            chartArea1.Name = "ChartArea1";
+            this.chartAcceleration.ChartAreas.Add(chartArea1);
             this.chartAcceleration.Location = new System.Drawing.Point(12, 41);
             this.chartAcceleration.Name = "chartAcceleration";
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series2.Name = "eggAccel";
-            this.chartAcceleration.Series.Add(series2);
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series1.Name = "eggAccel";
+            this.chartAcceleration.Series.Add(series1);
             this.chartAcceleration.Size = new System.Drawing.Size(923, 300);
             this.chartAcceleration.TabIndex = 0;
             this.chartAcceleration.Text = "Acceleration vs Time";
@@ -123,7 +127,7 @@
             // position
             // 
             this.position.AutoSize = true;
-            this.position.Location = new System.Drawing.Point(448, 12);
+            this.position.Location = new System.Drawing.Point(357, 5);
             this.position.Name = "position";
             this.position.Size = new System.Drawing.Size(66, 13);
             this.position.TabIndex = 36;
@@ -131,16 +135,52 @@
             // 
             // accelText
             // 
-            this.accelText.Location = new System.Drawing.Point(531, 12);
+            this.accelText.Location = new System.Drawing.Point(440, 5);
             this.accelText.Name = "accelText";
             this.accelText.Size = new System.Drawing.Size(60, 20);
             this.accelText.TabIndex = 37;
+            // 
+            // dataPointsText
+            // 
+            this.dataPointsText.Location = new System.Drawing.Point(589, 5);
+            this.dataPointsText.Name = "dataPointsText";
+            this.dataPointsText.Size = new System.Drawing.Size(60, 20);
+            this.dataPointsText.TabIndex = 40;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(506, 5);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(62, 13);
+            this.label1.TabIndex = 39;
+            this.label1.Text = "Data Points";
+            // 
+            // outputFilenameText
+            // 
+            this.outputFilenameText.Location = new System.Drawing.Point(804, 5);
+            this.outputFilenameText.Name = "outputFilenameText";
+            this.outputFilenameText.Size = new System.Drawing.Size(60, 20);
+            this.outputFilenameText.TabIndex = 42;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(709, 5);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(89, 13);
+            this.label2.TabIndex = 41;
+            this.label2.Text = "Output File Name";
             // 
             // mainWindow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(950, 634);
+            this.Controls.Add(this.outputFilenameText);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.dataPointsText);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.consoleWindow);
             this.Controls.Add(this.accelText);
             this.Controls.Add(this.position);
@@ -170,6 +210,10 @@
         private System.Windows.Forms.TextBox consoleWindow;
         private System.Windows.Forms.Label position;
         private System.Windows.Forms.TextBox accelText;
+        private System.Windows.Forms.TextBox dataPointsText;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox outputFilenameText;
+        private System.Windows.Forms.Label label2;
     }
 }
 

@@ -1,0 +1,9 @@
+'Predefined commands that has no parametres or only external parametres
+#S|T|TIME|[]#
+#S|D|DATE|[]#
+#S|SENDK|SENDK|[$1&$2]#
+
+
+
+#S|LOGDATA|LGFIL|[C:\Users\Justin\OneDrive\Courses\MECH 423\Final Project\button_test\DATA.txt&$1&0]#
+
