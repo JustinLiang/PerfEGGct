@@ -272,7 +272,7 @@ void DisplayMass() {
   GotoXY(0,0);
   LcdWriteString("Mass: ");
   mass = analogRead(PIN_LOAD) - 155;
-  if(mass < 0 ) {
+  if(mass < 0) {
     LcdWriteDec(0);
     displayCounter = 0;
   } else {

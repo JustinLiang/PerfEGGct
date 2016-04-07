@@ -159,6 +159,7 @@
             this.outputFilenameText.Name = "outputFilenameText";
             this.outputFilenameText.Size = new System.Drawing.Size(85, 20);
             this.outputFilenameText.TabIndex = 42;
+            this.outputFilenameText.Text = "SAMPLE_1";
             // 
             // label2
             // 
@@ -211,7 +212,7 @@
             this.fileNamesToAnalyzeText.Name = "fileNamesToAnalyzeText";
             this.fileNamesToAnalyzeText.Size = new System.Drawing.Size(106, 20);
             this.fileNamesToAnalyzeText.TabIndex = 48;
-            this.fileNamesToAnalyzeText.Text = "DATA_3MIN_3_";
+            this.fileNamesToAnalyzeText.Text = "SAMPLE_";
             // 
             // label4
             // 

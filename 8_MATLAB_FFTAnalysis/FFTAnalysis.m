@@ -8,7 +8,7 @@ function [frequency] = FFTAnalysis(fileName, N)
     if(~isdeployed)
       cd(fileparts(which(mfilename)));
     end
-    dir = 'C:\Users\Justin\OneDrive\Courses\MECH_423\Final_Project\5_C_Sharp_Egg_Test_Data_Logger\Data_Log_Files';
+    dir = '..\5_C_Sharp_Egg_Test_Data_Logger\Data_Log_Files';
 
     Fs = 111.9;           % Sampling frequency
     T = 1/Fs;
@@ -28,7 +28,7 @@ function [frequency] = FFTAnalysis(fileName, N)
         [m,v] = max(data{i});
         data{i} = data{i}(v:end);
 %         [b,a] = butter(2,[1/(Fs/2) 4/(Fs/2)]);
-%         [b,a] = butter(2,14/(Fs/2));
+%         [b,a] = butter(2,5.6/(Fs/2));
 %         data{i} = filtfilt(b,a,data{i});
 
         L = length(data{i});
@@ -51,32 +51,41 @@ function [frequency] = FFTAnalysis(fileName, N)
         
         subplot(3,N,i+N);
         plot(f,P1);
-        peakFreq = strcat({'Egg Frequency: '},{num2str(frequency(i))},{' Hz'});
-        title({'Frequency Histogram';peakFreq{1}});
+        freq_avg(i) = mean(P1);
+        freq_std(i) = std(P1);
+        title(sprintf('Frequency Histogram\nMean: %.3f, SD: %.2f', freq_avg(i), freq_std(i)));
+%         peakFreq = strcat({'Egg Frequency: '},{num2str(frequency(i))},{' Hz'});
+%         title({'Frequency Histogram';peakFreq{1}});
         
         subplot(3,N,i+N*2);
-        data{i};
-        s=exp2fit(t,data{i},2,'no');
-        w=1e9;
-        %--- plot and compare
-        fun = @(s,t) s(1)+s(2)*exp(-t/s(3))+s(4)*exp(-t/s(5));
-        tt=linspace(0,20,200)*1e-9;
-        ff=fun(s,tt);
-        plot(t,data{i},'.',tt,real(ff));
-        %--- evaluate parameters:
-%         sprintf(['f=1+3*exp(-t/5e-9).*sin(w*(t-2e-9))\n',...
-%         'Frequency: w_fitted=',num2str(-imag(1/s(3)),3),' w_data=',num2str(w,3),'\n',...
-%         'Damping: tau=',num2str(1/real(1/s(3)),3),'\n',...
-%         'Offset: s1=',num2str(real(s(1)),3)])
-        tau(i) = 1/real(1/s(3));
-        damping = strcat({'Damping: tau='},{num2str(1/real(1/s(3)),3)});
-        title(damping{1});
+%         data{i};
+%         s=exp2fit(t,data{i},2,'no');
+%         w=1e9;
+%         %--- plot and compare
+%         fun = @(s,t) s(1)+s(2)*exp(-t/s(3))+s(4)*exp(-t/s(5));
+%         tt=linspace(0,20,200)*1e-9;
+%         ff=fun(s,tt);
+%         plot(t,data{i},'.',tt,real(ff));
+%         %--- evaluate parameters:
+% %         sprintf(['f=1+3*exp(-t/5e-9).*sin(w*(t-2e-9))\n',...
+% %         'Frequency: w_fitted=',num2str(-imag(1/s(3)),3),' w_data=',num2str(w,3),'\n',...
+% %         'Damping: tau=',num2str(1/real(1/s(3)),3),'\n',...
+% %         'Offset: s1=',num2str(real(s(1)),3)])
+%         tau(i) = 1/real(1/s(3));
+%         damping = strcat({'Damping: tau='},{num2str(1/real(1/s(3)),3)});
+        [E, const_b(i), const_c(i), rawData] = exponentialFit(data{i});
+        hold on;
+        plot(rawData.x, rawData.y, '.');
+        plot(rawData.x, E,'r-');
+        title(sprintf('Fitted Decay\nb = %.1f, c = %.5f',const_b(i), const_c(i)))
+%         title(damping{1});
     end
     
     averageFrequency = mean(frequency)
+    avgdecayC = mean(const_c)
 
-    indices = find(tau(i)>0);
-    averageTau = mean(tau(indices))
+%     indices = find(tau(i)>0);
+%     averageTau = mean(tau(indices))
 end
 
 function [outStr] = AppendBackslash(tStr) 
