@@ -62,6 +62,8 @@ unsigned long prevAverageArray[PREV_ARRAY_SIZE];
 
 int dataPoints = 0;
 
+int displayCounter = 0;
+
 static const byte ASCII[][5] =
 {
   {0x00, 0x00, 0x00, 0x00, 0x00} // 20
@@ -269,13 +271,16 @@ void GotoXY(int x, int y)
 void DisplayMass() {
   GotoXY(0,0);
   LcdWriteString("Mass: ");
-  mass = analogRead(PIN_LOAD) - 110;
-  if(mass < 0) {
+  mass = analogRead(PIN_LOAD) - 155;
+  if(mass < 0 ) {
     LcdWriteDec(0);
+    displayCounter = 0;
   } else {
-    LcdWriteDec(mass);
+    LcdWriteDec(int(mass*1.44444));
+    displayCounter = 0;
   }
   LcdWriteString("g  ");
+  displayCounter++;
 }
 
 void GetDampedPeriods() {
