@@ -1,4 +1,7 @@
 function [frequency] = FFTAnalysis(fileName, N)
+    close all;
+    j = 1;
+    state = {'HARD BOILED','5 MIN','RAW'};
     figure;
 
     N = double(N);
@@ -54,34 +57,18 @@ function [frequency] = FFTAnalysis(fileName, N)
         freq_avg(i) = mean(P1);
         freq_std(i) = std(P1);
         title(sprintf('Frequency Histogram\nMean: %.3f, SD: %.2f', freq_avg(i), freq_std(i)));
-%         peakFreq = strcat({'Egg Frequency: '},{num2str(frequency(i))},{' Hz'});
-%         title({'Frequency Histogram';peakFreq{1}});
         
         subplot(3,N,i+N*2);
-%         data{i};
-%         s=exp2fit(t,data{i},2,'no');
-%         w=1e9;
-%         %--- plot and compare
-%         fun = @(s,t) s(1)+s(2)*exp(-t/s(3))+s(4)*exp(-t/s(5));
-%         tt=linspace(0,20,200)*1e-9;
-%         ff=fun(s,tt);
-%         plot(t,data{i},'.',tt,real(ff));
-%         %--- evaluate parameters:
-% %         sprintf(['f=1+3*exp(-t/5e-9).*sin(w*(t-2e-9))\n',...
-% %         'Frequency: w_fitted=',num2str(-imag(1/s(3)),3),' w_data=',num2str(w,3),'\n',...
-% %         'Damping: tau=',num2str(1/real(1/s(3)),3),'\n',...
-% %         'Offset: s1=',num2str(real(s(1)),3)])
-%         tau(i) = 1/real(1/s(3));
-%         damping = strcat({'Damping: tau='},{num2str(1/real(1/s(3)),3)});
         [E, const_b(i), const_c(i), rawData] = exponentialFit(data{i});
         hold on;
-        plot(rawData.x, rawData.y, '.');
+        plot(rawData.x, rawData.y, '.', 'Color', [0 0.4470 0.7410] );
         plot(rawData.x, E,'r-');
-        title(sprintf('Fitted Decay\nb = %.1f, c = %.5f',const_b(i), const_c(i)))
+        title(sprintf('%s\nb = %.1f, c = %.5f',state{j},const_b(i), const_c(i)))
+        j = j + 1;
 %         title(damping{1});
     end
     
-    averageFrequency = mean(frequency)
+%     averageFrequency = mean(frequency)
     avgdecayC = mean(const_c)
 
 %     indices = find(tau(i)>0);

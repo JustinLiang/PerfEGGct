@@ -173,9 +173,12 @@ void setup(void)
   ResetAveragingArray(); // Initializes array
   InitPrevAverageArray();
 
+  GotoXY(0,0);
+  LcdWriteString("PerfEGG with");
   GotoXY(0,1);
-  LcdWriteString("n: ");
-}
+  LcdWriteString("    with");
+  GotoXY(0,2);
+  LcdWriteString("  PerfEGGct");}
 
 void ButtonInit(void)
 {
@@ -269,7 +272,7 @@ void GotoXY(int x, int y)
 }
 
 void DisplayMass() {
-  GotoXY(0,0);
+  GotoXY(0,4);
   LcdWriteString("Mass: ");
   mass = analogRead(PIN_LOAD) - 155;
   if(mass < 0) {
